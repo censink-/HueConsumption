@@ -1,0 +1,2827 @@
+Ran cronjob at 2017-04-19 11:40:01
+Ran cronjob at 2017-04-19 11:50:01
+Ran cronjob at 2017-04-19 12:00:00
+Ran cronjob at 2017-04-19 12:10:00
+Ran cronjob at 2017-04-19 12:20:01
+Ran cronjob at 2017-04-19 12:30:00
+Ran cronjob at 2017-04-19 12:40:00
+Ran cronjob at 2017-04-19 12:50:00
+Ran cronjob at 2017-04-19 13:00:00
+Ran cronjob at 2017-04-19 13:05:17
+[2017-04-19 13:05:33] SQL: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 18856, 254, 254, null);
+[2017-04-19 13:05:33] SQL 4 gucci
+Ran cronjob at 2017-04-19 13:06:38
+[2017-04-19 13:06:53] SQL: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 16525, 254, 254, null);
+[2017-04-19 13:06:53] SQL 4 gucci
+Ran cronjob at 2017-04-19 13:07:47
+[2017-04-19 13:08:03] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 57237, 254, 254, null);
+[2017-04-19 13:08:03] SQL 4 gucci
+Ran cronjob at 2017-04-19 13:10:01
+[2017-04-19 13:10:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 29759, 254, 254, null);
+[2017-04-19 13:10:01] SQL 4 gucci
+Ran cronjob at 2017-04-19 13:20:00
+[2017-04-19 13:20:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-19 13:20:00] SQL 1 gucci
+[2017-04-19 13:20:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 13:20:00] SQL 4 gucci
+Ran cronjob at 2017-04-19 13:30:00
+[2017-04-19 13:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-19 13:30:00] SQL 1 gucci
+[2017-04-19 13:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 13:30:00] SQL 4 gucci
+Ran cronjob at 2017-04-19 13:40:00
+[2017-04-19 13:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25600, 254, 254, null);
+[2017-04-19 13:40:00] SQL 1 gucci
+[2017-04-19 13:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 13:40:00] SQL 4 gucci
+Ran cronjob at 2017-04-19 13:50:00
+[2017-04-19 13:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 37740, 254, 254, null);
+[2017-04-19 13:50:00] SQL 1 gucci
+[2017-04-19 13:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 13:50:00] SQL 4 gucci
+Ran cronjob at 2017-04-19 14:00:00
+[2017-04-19 14:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 14:00:00] SQL 4 gucci
+Ran cronjob at 2017-04-19 14:10:01
+[2017-04-19 14:10:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 14:10:01] SQL 4 gucci
+Ran cronjob at 2017-04-19 14:20:01
+[2017-04-19 14:20:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 14:20:01] SQL 4 gucci
+Ran cronjob at 2017-04-19 14:23:56
+[2017-04-19 14:23:56] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 14956, 140, 254, null);
+[2017-04-19 14:23:56] SQL 1 gucci
+[2017-04-19 14:23:56] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 14:23:56] SQL 4 gucci
+[2017-04-19 14:25:33] Cronjob ran!
+[2017-04-19 14:25:33] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 14956, 140, 254, null);
+[2017-04-19 14:25:33] SQL 1 gucci
+[2017-04-19 14:25:33] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63596, 254, 254, null);
+[2017-04-19 14:25:33] SQL 4 gucci
+[2017-04-19 14:30:00] Cronjob ran!
+[2017-04-19 14:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 61931, 249, 254, null);
+[2017-04-19 14:30:00] SQL 1 gucci
+[2017-04-19 14:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61724, 249, 254, null);
+[2017-04-19 14:30:00] SQL 4 gucci
+[2017-04-19 14:40:00] Cronjob ran!
+[2017-04-19 14:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 61931, 249, 254, null);
+[2017-04-19 14:40:00] SQL 1 gucci
+[2017-04-19 14:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61724, 249, 254, null);
+[2017-04-19 14:40:00] SQL 4 gucci
+[2017-04-19 14:50:00] Cronjob ran!
+[2017-04-19 14:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 14:50:00] SQL 4 gucci
+[2017-04-19 15:00:00] Cronjob ran!
+[2017-04-19 15:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 15:00:00] SQL 4 gucci
+[2017-04-19 15:10:00] Cronjob ran!
+[2017-04-19 15:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 15:10:00] SQL 4 gucci
+[2017-04-19 15:20:00] Cronjob ran!
+[2017-04-19 15:20:02] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 15:20:02] SQL 4 gucci
+[2017-04-19 15:30:00] Cronjob ran!
+[2017-04-19 15:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 15:30:00] SQL 4 gucci
+[2017-04-19 15:40:00] Cronjob ran!
+[2017-04-19 15:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 24, null);
+[2017-04-19 15:40:00] SQL 1 gucci
+[2017-04-19 15:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 15:40:00] SQL 4 gucci
+[2017-04-19 15:50:00] Cronjob ran!
+[2017-04-19 15:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 24, null);
+[2017-04-19 15:50:00] SQL 1 gucci
+[2017-04-19 15:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 15:50:00] SQL 4 gucci
+[2017-04-19 16:00:00] Cronjob ran!
+[2017-04-19 16:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 16:00:00] SQL 4 gucci
+[2017-04-19 16:10:00] Cronjob ran!
+[2017-04-19 16:10:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 16:10:01] SQL 4 gucci
+[2017-04-19 16:20:01] Cronjob ran!
+[2017-04-19 16:20:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 16:20:01] SQL 4 gucci
+[2017-04-19 16:30:00] Cronjob ran!
+[2017-04-19 16:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 16:30:00] SQL 4 gucci
+[2017-04-19 16:40:00] Cronjob ran!
+[2017-04-19 16:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 16:40:00] SQL 4 gucci
+[2017-04-19 16:50:00] Cronjob ran!
+[2017-04-19 16:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 16:50:00] SQL 4 gucci
+[2017-04-19 17:00:01] Cronjob ran!
+[2017-04-19 17:00:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63738, 254, 254, null);
+[2017-04-19 17:00:01] SQL 4 gucci
+[2017-04-19 20:20:00] Cronjob ran!
+[2017-04-19 20:30:00] Cronjob ran!
+[2017-04-19 20:40:01] Cronjob ran!
+[2017-04-19 20:50:00] Cronjob ran!
+[2017-04-19 21:00:01] Cronjob ran!
+[2017-04-19 21:10:00] Cronjob ran!
+[2017-04-19 21:20:00] Cronjob ran!
+[2017-04-19 21:30:00] Cronjob ran!
+[2017-04-19 21:40:00] Cronjob ran!
+[2017-04-19 21:50:00] Cronjob ran!
+[2017-04-19 22:00:00] Cronjob ran!
+[2017-04-19 22:10:01] Cronjob ran!
+[2017-04-19 22:20:00] Cronjob ran!
+[2017-04-19 22:30:00] Cronjob ran!
+[2017-04-19 22:40:00] Cronjob ran!
+[2017-04-19 22:50:00] Cronjob ran!
+[2017-04-19 23:00:00] Cronjob ran!
+[2017-04-19 23:10:00] Cronjob ran!
+[2017-04-19 23:20:01] Cronjob ran!
+[2017-04-19 23:30:00] Cronjob ran!
+[2017-04-19 23:40:01] Cronjob ran!
+[2017-04-19 23:50:00] Cronjob ran!
+[2017-04-20 00:00:00] Cronjob ran!
+[2017-04-20 00:10:00] Cronjob ran!
+[2017-04-20 00:20:00] Cronjob ran!
+[2017-04-20 00:30:00] Cronjob ran!
+[2017-04-20 00:40:00] Cronjob ran!
+[2017-04-20 00:50:01] Cronjob ran!
+[2017-04-20 01:00:00] Cronjob ran!
+[2017-04-20 01:10:00] Cronjob ran!
+[2017-04-20 01:20:00] Cronjob ran!
+[2017-04-20 03:10:00] Cronjob ran!
+[2017-04-20 03:20:00] Cronjob ran!
+[2017-04-20 03:30:01] Cronjob ran!
+[2017-04-20 04:40:00] Cronjob ran!
+[2017-04-20 04:50:00] Cronjob ran!
+[2017-04-20 05:00:00] Cronjob ran!
+[2017-04-20 06:10:00] Cronjob ran!
+[2017-04-20 06:20:00] Cronjob ran!
+[2017-04-20 06:30:00] Cronjob ran!
+[2017-04-20 07:40:00] Cronjob ran!
+[2017-04-20 07:50:00] Cronjob ran!
+[2017-04-20 08:00:00] Cronjob ran!
+[2017-04-20 09:10:00] Cronjob ran!
+[2017-04-20 09:20:00] Cronjob ran!
+[2017-04-20 09:30:01] Cronjob ran!
+[2017-04-20 10:10:00] Cronjob ran!
+[2017-04-20 10:20:00] Cronjob ran!
+[2017-04-20 10:30:01] Cronjob ran!
+[2017-04-20 10:40:00] Cronjob ran!
+[2017-04-20 10:50:00] Cronjob ran!
+[2017-04-20 11:00:00] Cronjob ran!
+[2017-04-20 11:10:01] Cronjob ran!
+[2017-04-20 11:21:59] Cronjob ran!
+[2017-04-20 11:31:23] Cronjob ran!
+[2017-04-20 11:40:01] Cronjob ran!
+[2017-04-20 11:50:01] Cronjob ran!
+[2017-04-20 12:00:01] Cronjob ran!
+[2017-04-20 12:10:00] Cronjob ran!
+[2017-04-20 12:20:00] Cronjob ran!
+[2017-04-20 12:30:00] Cronjob ran!
+[2017-04-20 12:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-20 12:30:00] SQL 1 gucci
+[2017-04-20 12:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 64138, 254, 254, null);
+[2017-04-20 12:30:00] SQL 4 gucci
+[2017-04-20 12:30:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 64340, 253, 254, null);
+[2017-04-20 12:30:00] SQL 8 gucci
+[2017-04-20 12:40:00] Cronjob ran!
+[2017-04-20 12:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 41320, 254, 254, null);
+[2017-04-20 12:40:00] SQL 1 gucci
+[2017-04-20 12:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 42444, 239, 254, null);
+[2017-04-20 12:40:00] SQL 4 gucci
+[2017-04-20 12:40:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 41320, 254, 254, null);
+[2017-04-20 12:40:00] SQL 8 gucci
+[2017-04-20 12:50:01] Cronjob ran!
+[2017-04-20 12:50:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25600, 254, 254, null);
+[2017-04-20 12:50:01] SQL 1 gucci
+[2017-04-20 12:50:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 47943, 214, 254, null);
+[2017-04-20 12:50:01] SQL 4 gucci
+[2017-04-20 12:50:01] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 25600, 254, 254, null);
+[2017-04-20 12:50:01] SQL 8 gucci
+[2017-04-20 13:00:01] Cronjob ran!
+[2017-04-20 13:00:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 35169, 254, 254, null);
+[2017-04-20 13:00:01] SQL 1 gucci
+[2017-04-20 13:00:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 8812, 98, 254, null);
+[2017-04-20 13:00:01] SQL 4 gucci
+[2017-04-20 13:00:01] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 15725, 95, 254, null);
+[2017-04-20 13:00:01] SQL 8 gucci
+[2017-04-20 13:10:00] Cronjob ran!
+[2017-04-20 13:10:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 61253, 15, 254, null);
+[2017-04-20 13:10:01] SQL 1 gucci
+[2017-04-20 13:10:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 3564, 24, 254, null);
+[2017-04-20 13:10:01] SQL 4 gucci
+[2017-04-20 13:10:01] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 5328, 24, 254, null);
+[2017-04-20 13:10:01] SQL 8 gucci
+[2017-04-20 13:20:01] Cronjob ran!
+[2017-04-20 13:20:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 61253, 15, 254, null);
+[2017-04-20 13:20:01] SQL 1 gucci
+[2017-04-20 13:20:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 3564, 24, 254, null);
+[2017-04-20 13:20:01] SQL 4 gucci
+[2017-04-20 13:20:01] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 5328, 24, 254, null);
+[2017-04-20 13:20:01] SQL 8 gucci
+[2017-04-20 13:30:00] Cronjob ran!
+[2017-04-20 13:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-20 13:30:00] SQL 1 gucci
+[2017-04-20 13:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65156, 254, 65, null);
+[2017-04-20 13:30:00] SQL 4 gucci
+[2017-04-20 13:30:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65391, 253, 65, null);
+[2017-04-20 13:30:00] SQL 8 gucci
+[2017-04-20 13:40:01] Cronjob ran!
+[2017-04-20 13:40:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-20 13:40:01] SQL 1 gucci
+[2017-04-20 13:40:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65156, 254, 65, null);
+[2017-04-20 13:40:01] SQL 4 gucci
+[2017-04-20 13:40:01] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65391, 253, 65, null);
+[2017-04-20 13:40:01] SQL 8 gucci
+[2017-04-20 13:50:00] Cronjob ran!
+[2017-04-20 13:50:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25600, 254, 254, null);
+[2017-04-20 13:50:01] SQL 1 gucci
+[2017-04-20 13:50:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 15814, 239, 78, null);
+[2017-04-20 13:50:01] SQL 4 gucci
+[2017-04-20 13:50:01] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 25600, 254, 133, null);
+[2017-04-20 13:50:01] SQL 8 gucci
+[2017-04-20 14:00:00] Cronjob ran!
+[2017-04-20 14:00:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 54830, 240, 254, null);
+[2017-04-20 14:00:00] SQL 1 gucci
+[2017-04-20 14:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 54869, 239, 229, null);
+[2017-04-20 14:00:00] SQL 4 gucci
+[2017-04-20 14:00:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 54830, 240, 133, null);
+[2017-04-20 14:00:00] SQL 8 gucci
+[2017-04-20 14:10:00] Cronjob ran!
+[2017-04-20 14:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 13727, 239, 229, null);
+[2017-04-20 14:10:00] SQL 4 gucci
+[2017-04-20 14:10:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 25369, 243, 133, null);
+[2017-04-20 14:10:00] SQL 8 gucci
+[2017-04-20 14:20:00] Cronjob ran!
+[2017-04-20 14:20:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25600, 254, 254, null);
+[2017-04-20 14:20:00] SQL 1 gucci
+[2017-04-20 14:20:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 22488, 243, 229, null);
+[2017-04-20 14:20:00] SQL 4 gucci
+[2017-04-20 14:20:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 25736, 254, 133, null);
+[2017-04-20 14:20:00] SQL 8 gucci
+[2017-04-20 14:30:00] Cronjob ran!
+[2017-04-20 14:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25600, 254, 254, null);
+[2017-04-20 14:30:00] SQL 1 gucci
+[2017-04-20 14:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 58999, 232, 229, null);
+[2017-04-20 14:30:00] SQL 4 gucci
+[2017-04-20 14:30:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 59028, 242, 133, null);
+[2017-04-20 14:30:00] SQL 8 gucci
+[2017-04-20 14:40:00] Cronjob ran!
+[2017-04-20 14:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 39528, 254, 254, null);
+[2017-04-20 14:40:00] SQL 1 gucci
+[2017-04-20 14:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 40665, 241, 229, null);
+[2017-04-20 14:40:00] SQL 4 gucci
+[2017-04-20 14:40:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 39528, 254, 133, null);
+[2017-04-20 14:40:00] SQL 8 gucci
+[2017-04-20 14:50:00] Cronjob ran!
+[2017-04-20 14:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 54830, 240, 254, null);
+[2017-04-20 14:50:00] SQL 1 gucci
+[2017-04-20 14:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 54869, 239, 229, null);
+[2017-04-20 14:50:00] SQL 4 gucci
+[2017-04-20 14:50:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 54830, 240, 133, null);
+[2017-04-20 14:50:00] SQL 8 gucci
+[2017-04-20 15:00:00] Cronjob ran!
+[2017-04-20 15:00:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 54830, 240, 254, null);
+[2017-04-20 15:00:00] SQL 1 gucci
+[2017-04-20 15:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 54869, 239, 229, null);
+[2017-04-20 15:00:00] SQL 4 gucci
+[2017-04-20 15:00:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 54830, 240, 133, null);
+[2017-04-20 15:00:00] SQL 8 gucci
+[2017-04-20 15:10:00] Cronjob ran!
+[2017-04-20 15:10:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 54830, 240, 254, null);
+[2017-04-20 15:10:00] SQL 1 gucci
+[2017-04-20 15:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 54869, 239, 229, null);
+[2017-04-20 15:10:00] SQL 4 gucci
+[2017-04-20 15:10:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 54830, 240, 133, null);
+[2017-04-20 15:10:00] SQL 8 gucci
+[2017-04-20 15:20:00] Cronjob ran!
+[2017-04-20 15:20:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 54830, 240, 254, null);
+[2017-04-20 15:20:00] SQL 1 gucci
+[2017-04-20 15:20:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 54869, 239, 229, null);
+[2017-04-20 15:20:00] SQL 4 gucci
+[2017-04-20 15:20:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 54830, 240, 133, null);
+[2017-04-20 15:20:00] SQL 8 gucci
+[2017-04-20 15:30:00] Cronjob ran!
+[2017-04-20 15:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 51204, 229, 254, null);
+[2017-04-20 15:30:00] SQL 1 gucci
+[2017-04-20 15:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 51541, 235, 229, null);
+[2017-04-20 15:30:00] SQL 4 gucci
+[2017-04-20 15:40:00] Cronjob ran!
+[2017-04-20 15:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 107, null);
+[2017-04-20 15:40:00] SQL 1 gucci
+[2017-04-20 15:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 15:40:00] SQL 4 gucci
+[2017-04-20 15:50:01] Cronjob ran!
+[2017-04-20 15:50:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 15:50:01] SQL 1 gucci
+[2017-04-20 15:50:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 15:50:01] SQL 4 gucci
+[2017-04-20 16:00:00] Cronjob ran!
+[2017-04-20 16:00:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 16:00:00] SQL 1 gucci
+[2017-04-20 16:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 16:00:00] SQL 4 gucci
+[2017-04-20 16:10:00] Cronjob ran!
+[2017-04-20 16:10:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 16:10:00] SQL 1 gucci
+[2017-04-20 16:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 16:10:00] SQL 4 gucci
+[2017-04-20 16:20:00] Cronjob ran!
+[2017-04-20 16:20:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 16:20:00] SQL 1 gucci
+[2017-04-20 16:20:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 16:20:00] SQL 4 gucci
+[2017-04-20 16:30:00] Cronjob ran!
+[2017-04-20 16:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 16:30:00] SQL 1 gucci
+[2017-04-20 16:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 16:30:00] SQL 4 gucci
+[2017-04-20 16:40:01] Cronjob ran!
+[2017-04-20 16:40:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 16:40:01] SQL 1 gucci
+[2017-04-20 16:40:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 16:40:01] SQL 4 gucci
+[2017-04-20 16:45:24] Cronjob ran!
+[2017-04-20 16:45:24] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 16:45:24] SQL 1 gucci
+[2017-04-20 16:45:24] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 16:45:24] SQL 4 gucci
+[2017-04-20 16:50:00] Cronjob ran!
+[2017-04-20 16:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 16:50:00] SQL 1 gucci
+[2017-04-20 16:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 16:50:00] SQL 4 gucci
+[2017-04-20 17:00:00] Cronjob ran!
+[2017-04-20 17:00:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 17:00:00] SQL 1 gucci
+[2017-04-20 17:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 17:00:00] SQL 4 gucci
+[2017-04-20 17:10:00] Cronjob ran!
+[2017-04-20 17:10:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 17:10:00] SQL 1 gucci
+[2017-04-20 17:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 17:10:00] SQL 4 gucci
+[2017-04-20 17:20:01] Cronjob ran!
+[2017-04-20 17:20:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 17:20:01] SQL 1 gucci
+[2017-04-20 17:20:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 17:20:01] SQL 4 gucci
+[2017-04-20 17:30:00] Cronjob ran!
+[2017-04-20 17:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 17:30:00] SQL 1 gucci
+[2017-04-20 17:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 17:30:00] SQL 4 gucci
+[2017-04-20 17:40:00] Cronjob ran!
+[2017-04-20 17:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 17:40:00] SQL 1 gucci
+[2017-04-20 17:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 17:40:00] SQL 4 gucci
+[2017-04-20 17:50:00] Cronjob ran!
+[2017-04-20 17:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 17:50:00] SQL 1 gucci
+[2017-04-20 17:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 17:50:00] SQL 4 gucci
+[2017-04-20 18:00:00] Cronjob ran!
+[2017-04-20 18:00:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 1, null);
+[2017-04-20 18:00:00] SQL 1 gucci
+[2017-04-20 18:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 61606, 254, 254, null);
+[2017-04-20 18:00:00] SQL 4 gucci
+[2017-04-20 18:10:00] Cronjob ran!
+[2017-04-20 18:20:00] Cronjob ran!
+[2017-04-20 18:30:00] Cronjob ran!
+[2017-04-20 18:40:00] Cronjob ran!
+[2017-04-20 18:50:00] Cronjob ran!
+[2017-04-20 19:00:00] Cronjob ran!
+[2017-04-20 19:10:01] Cronjob ran!
+[2017-04-20 19:20:00] Cronjob ran!
+[2017-04-20 19:30:00] Cronjob ran!
+[2017-04-20 19:40:01] Cronjob ran!
+[2017-04-20 19:50:00] Cronjob ran!
+[2017-04-20 20:00:01] Cronjob ran!
+[2017-04-20 20:10:00] Cronjob ran!
+[2017-04-20 20:30:01] Cronjob ran!
+[2017-04-20 20:40:00] Cronjob ran!
+[2017-04-20 20:50:00] Cronjob ran!
+[2017-04-20 20:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 57703, 253, 70, null);
+[2017-04-20 20:50:00] SQL 1 gucci
+[2017-04-20 20:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 6943, 170, 254, null);
+[2017-04-20 20:50:00] SQL 4 gucci
+[2017-04-20 21:00:00] Cronjob ran!
+[2017-04-20 21:00:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 57703, 253, 70, null);
+[2017-04-20 21:00:00] SQL 1 gucci
+[2017-04-20 21:00:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 6943, 170, 254, null);
+[2017-04-20 21:00:00] SQL 4 gucci
+[2017-04-20 21:10:00] Cronjob ran!
+[2017-04-20 21:10:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 57703, 253, 70, null);
+[2017-04-20 21:10:00] SQL 1 gucci
+[2017-04-20 21:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 6943, 170, 254, null);
+[2017-04-20 21:10:00] SQL 4 gucci
+[2017-04-20 21:20:00] Cronjob ran!
+[2017-04-20 21:20:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 57703, 253, 70, null);
+[2017-04-20 21:20:00] SQL 1 gucci
+[2017-04-20 21:20:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 6943, 170, 254, null);
+[2017-04-20 21:20:00] SQL 4 gucci
+[2017-04-20 21:30:01] Cronjob ran!
+[2017-04-20 21:30:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 57703, 253, 70, null);
+[2017-04-20 21:30:01] SQL 1 gucci
+[2017-04-20 21:30:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 6943, 170, 254, null);
+[2017-04-20 21:30:01] SQL 4 gucci
+[2017-04-20 21:40:00] Cronjob ran!
+[2017-04-20 21:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 57703, 253, 70, null);
+[2017-04-20 21:40:00] SQL 1 gucci
+[2017-04-20 21:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 6943, 170, 254, null);
+[2017-04-20 21:40:00] SQL 4 gucci
+[2017-04-20 21:50:00] Cronjob ran!
+[2017-04-20 21:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 57703, 253, 70, null);
+[2017-04-20 21:50:00] SQL 1 gucci
+[2017-04-20 21:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 6943, 170, 254, null);
+[2017-04-20 21:50:00] SQL 4 gucci
+[2017-04-20 22:00:00] Cronjob ran!
+[2017-04-20 22:10:00] Cronjob ran!
+[2017-04-20 22:10:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 25653, 254, 70, null);
+[2017-04-20 22:10:00] SQL 1 gucci
+[2017-04-20 22:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 22:10:00] SQL 4 gucci
+[2017-04-20 22:20:00] Cronjob ran!
+[2017-04-20 22:20:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 22:20:00] SQL 4 gucci
+[2017-04-20 22:30:00] Cronjob ran!
+[2017-04-20 22:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 22:30:00] SQL 4 gucci
+[2017-04-20 22:40:00] Cronjob ran!
+[2017-04-20 22:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 22:40:00] SQL 4 gucci
+[2017-04-20 22:50:00] Cronjob ran!
+[2017-04-20 22:50:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 65527, 253, 70, null);
+[2017-04-20 22:50:00] SQL 1 gucci
+[2017-04-20 22:50:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 22:50:00] SQL 4 gucci
+[2017-04-20 23:00:00] Cronjob ran!
+[2017-04-20 23:00:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 65527, 253, 70, null);
+[2017-04-20 23:00:01] SQL 1 gucci
+[2017-04-20 23:00:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 23:00:01] SQL 4 gucci
+[2017-04-20 23:10:00] Cronjob ran!
+[2017-04-20 23:10:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 65527, 253, 70, null);
+[2017-04-20 23:10:00] SQL 1 gucci
+[2017-04-20 23:10:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 23:10:00] SQL 4 gucci
+[2017-04-20 23:20:01] Cronjob ran!
+[2017-04-20 23:20:01] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 65527, 253, 70, null);
+[2017-04-20 23:20:01] SQL 1 gucci
+[2017-04-20 23:20:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 23:20:01] SQL 4 gucci
+[2017-04-20 23:30:00] Cronjob ran!
+[2017-04-20 23:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 65527, 253, 70, null);
+[2017-04-20 23:30:00] SQL 1 gucci
+[2017-04-20 23:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 23:30:00] SQL 4 gucci
+[2017-04-20 23:40:00] Cronjob ran!
+[2017-04-20 23:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 65527, 253, 70, null);
+[2017-04-20 23:40:00] SQL 1 gucci
+[2017-04-20 23:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 23:40:00] SQL 4 gucci
+[2017-04-20 23:50:01] Cronjob ran!
+[2017-04-20 23:50:01] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 23:50:01] SQL 4 gucci
+[2017-04-20 23:50:43] Cronjob ran!
+[2017-04-20 23:50:43] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 46014, 254, 254, null);
+[2017-04-20 23:50:43] SQL 4 gucci
+[2017-04-20 23:50:51] Cronjob ran!
+[2017-04-20 23:51:20] Cronjob ran!
+[2017-04-20 23:51:20] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 65527, 253, 70, null);
+[2017-04-20 23:51:20] SQL 1 gucci
+[2017-04-21 09:03:09] Cronjob ran!
+[2017-04-21 09:10:01] Cronjob ran!
+[2017-04-21 09:20:00] Cronjob ran!
+[2017-04-21 09:20:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:20:00] SQL 1 gucci
+[2017-04-21 09:20:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63921, 254, 254, null);
+[2017-04-21 09:20:00] SQL 4 gucci
+[2017-04-21 09:20:46] Cronjob ran!
+[2017-04-21 09:20:46] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 173, null);
+[2017-04-21 09:20:46] SQL 1 gucci
+[2017-04-21 09:20:46] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 63921, 254, 254, null);
+[2017-04-21 09:20:46] SQL 4 gucci
+[2017-04-21 09:26:13] Cronjob ran!
+[2017-04-21 09:26:13] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 173, null);
+[2017-04-21 09:26:13] SQL 1 gucci
+[2017-04-21 09:26:13] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', , 0, 0, 0, null);
+[2017-04-21 09:26:13] SQL 2 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:26:13] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', , 0, 0, 0, null);
+[2017-04-21 09:26:13] SQL 3 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:26:13] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 64341, 254, 254, null);
+[2017-04-21 09:26:13] SQL 4 gucci
+[2017-04-21 09:26:13] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', , 0, 0, 0, null);
+[2017-04-21 09:26:13] SQL 5 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:26:13] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', , , , 0, null);
+[2017-04-21 09:26:13] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:26:13] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', , , , 0, null);
+[2017-04-21 09:26:13] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:26:13] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 64549, 253, 254, null);
+[2017-04-21 09:26:13] SQL 8 gucci
+[2017-04-21 09:30:00] Cronjob ran!
+[2017-04-21 09:30:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 173, null);
+[2017-04-21 09:30:00] SQL 1 gucci
+[2017-04-21 09:30:00] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', , 0, 0, 0, null);
+[2017-04-21 09:30:00] SQL 2 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:30:00] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', , 0, 0, 0, null);
+[2017-04-21 09:30:00] SQL 3 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:30:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:30:00] SQL 4 gucci
+[2017-04-21 09:30:00] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', , 0, 0, 0, null);
+[2017-04-21 09:30:00] SQL 5 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:30:00] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', , , , 0, null);
+[2017-04-21 09:30:00] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:30:00] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', , , , 0, null);
+[2017-04-21 09:30:00] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:30:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:30:00] SQL 8 gucci
+[2017-04-21 09:32:25] Cronjob ran!
+[2017-04-21 09:32:25] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 173, null);
+[2017-04-21 09:32:25] SQL 1 gucci
+[2017-04-21 09:32:25] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', , 0, 0, 0, null);
+[2017-04-21 09:32:25] SQL 2 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:32:25] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', , 0, 0, 0, null);
+[2017-04-21 09:32:25] SQL 3 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:32:25] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:32:25] SQL 4 gucci
+[2017-04-21 09:32:25] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', , 0, 0, 0, null);
+[2017-04-21 09:32:25] SQL 5 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:32:25] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', , , , 0, null);
+[2017-04-21 09:32:25] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:32:25] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', , , , 0, null);
+[2017-04-21 09:32:25] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:32:25] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:32:25] SQL 8 gucci
+[2017-04-21 09:33:15] Cronjob ran!
+[2017-04-21 09:33:15] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', , 47125, 253, 0, null);
+[2017-04-21 09:33:15] SQL 1 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 47125, 253, 0, null)' at line 1
+[2017-04-21 09:33:15] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', , 0, 0, 0, null);
+[2017-04-21 09:33:15] SQL 2 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:33:15] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', , 0, 0, 0, null);
+[2017-04-21 09:33:15] SQL 3 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:33:15] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:33:15] SQL 4 gucci
+[2017-04-21 09:33:15] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', , 0, 0, 0, null);
+[2017-04-21 09:33:15] SQL 5 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:33:15] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', , , , 0, null);
+[2017-04-21 09:33:15] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:33:15] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', , , , 0, null);
+[2017-04-21 09:33:15] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:33:15] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:33:15] SQL 8 gucci
+[2017-04-21 09:33:45] Cronjob ran!
+[2017-04-21 09:33:45] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', , 47125, 253, 0, null);
+[2017-04-21 09:33:45] SQL 1 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 47125, 253, 0, null)' at line 1
+[2017-04-21 09:33:45] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', , 0, 0, 0, null);
+[2017-04-21 09:33:45] SQL 2 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:33:45] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', , 0, 0, 0, null);
+[2017-04-21 09:33:45] SQL 3 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:33:45] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:33:45] SQL 4 gucci
+[2017-04-21 09:33:45] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', , 0, 0, 0, null);
+[2017-04-21 09:33:45] SQL 5 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 0, 0, 0, null)' at line 1
+[2017-04-21 09:33:45] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', , , , 0, null);
+[2017-04-21 09:33:45] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:33:45] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', , , , 0, null);
+[2017-04-21 09:33:45] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , , 0, null)' at line 1
+[2017-04-21 09:33:45] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:33:45] SQL 8 gucci
+[2017-04-21 09:36:29] Cronjob ran!
+[2017-04-21 09:36:29] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 0, 47125, 253, 0, null);
+[2017-04-21 09:36:29] SQL 1 gucci
+[2017-04-21 09:36:29] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:36:29] SQL 2 gucci
+[2017-04-21 09:36:29] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:36:29] SQL 3 gucci
+[2017-04-21 09:36:29] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:36:29] SQL 4 gucci
+[2017-04-21 09:36:29] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:36:29] SQL 5 gucci
+[2017-04-21 09:36:29] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:36:29] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:36:29] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:36:29] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:36:29] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:36:29] SQL 8 gucci
+[2017-04-21 09:37:03] Cronjob ran!
+[2017-04-21 09:37:03] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 164, null);
+[2017-04-21 09:37:03] SQL 1 gucci
+[2017-04-21 09:37:03] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:37:03] SQL 2 gucci
+[2017-04-21 09:37:03] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:37:03] SQL 3 gucci
+[2017-04-21 09:37:03] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:37:03] SQL 4 gucci
+[2017-04-21 09:37:03] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:37:03] SQL 5 gucci
+[2017-04-21 09:37:03] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:37:03] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:37:03] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:37:03] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:37:03] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:37:03] SQL 8 gucci
+[2017-04-21 09:38:05] Cronjob ran!
+[2017-04-21 09:38:05] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 173, null);
+[2017-04-21 09:38:05] SQL 1 gucci
+[2017-04-21 09:38:05] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:05] SQL 2 gucci
+[2017-04-21 09:38:05] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:05] SQL 3 gucci
+[2017-04-21 09:38:05] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:38:05] SQL 4 gucci
+[2017-04-21 09:38:05] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:05] SQL 5 gucci
+[2017-04-21 09:38:05] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:05] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:05] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:05] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:05] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:38:05] SQL 8 gucci
+[2017-04-21 09:38:11] Cronjob ran!
+[2017-04-21 09:38:11] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:38:11] SQL 1 gucci
+[2017-04-21 09:38:11] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:11] SQL 2 gucci
+[2017-04-21 09:38:11] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:11] SQL 3 gucci
+[2017-04-21 09:38:11] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:38:11] SQL 4 gucci
+[2017-04-21 09:38:11] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:11] SQL 5 gucci
+[2017-04-21 09:38:11] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:11] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:11] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:11] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:11] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:38:11] SQL 8 gucci
+[2017-04-21 09:38:13] Cronjob ran!
+[2017-04-21 09:38:13] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 0, 47125, 253, 0, null);
+[2017-04-21 09:38:13] SQL 1 gucci
+[2017-04-21 09:38:13] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:13] SQL 2 gucci
+[2017-04-21 09:38:13] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:13] SQL 3 gucci
+[2017-04-21 09:38:13] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:38:13] SQL 4 gucci
+[2017-04-21 09:38:13] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:13] SQL 5 gucci
+[2017-04-21 09:38:13] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:13] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:13] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:13] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:13] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:38:13] SQL 8 gucci
+[2017-04-21 09:38:16] Cronjob ran!
+[2017-04-21 09:38:16] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 0, 47125, 253, 0, null);
+[2017-04-21 09:38:16] SQL 1 gucci
+[2017-04-21 09:38:16] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:16] SQL 2 gucci
+[2017-04-21 09:38:16] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:16] SQL 3 gucci
+[2017-04-21 09:38:16] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 254, null);
+[2017-04-21 09:38:16] SQL 4 gucci
+[2017-04-21 09:38:16] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:16] SQL 5 gucci
+[2017-04-21 09:38:16] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:16] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:16] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:16] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:16] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:38:16] SQL 8 gucci
+[2017-04-21 09:38:26] Cronjob ran!
+[2017-04-21 09:38:27] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:38:27] SQL 1 gucci
+[2017-04-21 09:38:27] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:27] SQL 2 gucci
+[2017-04-21 09:38:27] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:27] SQL 3 gucci
+[2017-04-21 09:38:27] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 78, null);
+[2017-04-21 09:38:27] SQL 4 gucci
+[2017-04-21 09:38:27] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:27] SQL 5 gucci
+[2017-04-21 09:38:27] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:27] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:27] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:27] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:27] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 0, 65262, 253, 0, null);
+[2017-04-21 09:38:27] SQL 8 gucci
+[2017-04-21 09:38:30] Cronjob ran!
+[2017-04-21 09:38:32] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:38:32] SQL 1 gucci
+[2017-04-21 09:38:32] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:32] SQL 2 gucci
+[2017-04-21 09:38:32] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:32] SQL 3 gucci
+[2017-04-21 09:38:32] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 6, null);
+[2017-04-21 09:38:32] SQL 4 gucci
+[2017-04-21 09:38:32] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:32] SQL 5 gucci
+[2017-04-21 09:38:32] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:32] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:32] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:32] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:32] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 0, 65262, 253, 0, null);
+[2017-04-21 09:38:32] SQL 8 gucci
+[2017-04-21 09:38:38] Cronjob ran!
+[2017-04-21 09:38:38] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:38:38] SQL 1 gucci
+[2017-04-21 09:38:38] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:38] SQL 2 gucci
+[2017-04-21 09:38:38] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:38] SQL 3 gucci
+[2017-04-21 09:38:38] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 0, null);
+[2017-04-21 09:38:38] SQL 4 gucci
+[2017-04-21 09:38:38] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:38] SQL 5 gucci
+[2017-04-21 09:38:38] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:38] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:38] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:38] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:38] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 0, 65262, 253, 0, null);
+[2017-04-21 09:38:38] SQL 8 gucci
+[2017-04-21 09:38:41] Cronjob ran!
+[2017-04-21 09:38:41] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:38:41] SQL 1 gucci
+[2017-04-21 09:38:41] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:41] SQL 2 gucci
+[2017-04-21 09:38:41] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:41] SQL 3 gucci
+[2017-04-21 09:38:41] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 252, null);
+[2017-04-21 09:38:41] SQL 4 gucci
+[2017-04-21 09:38:41] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:41] SQL 5 gucci
+[2017-04-21 09:38:41] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:41] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:41] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:41] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:41] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 0, 65262, 253, 0, null);
+[2017-04-21 09:38:41] SQL 8 gucci
+[2017-04-21 09:38:51] Cronjob ran!
+[2017-04-21 09:38:51] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:38:51] SQL 1 gucci
+[2017-04-21 09:38:51] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:51] SQL 2 gucci
+[2017-04-21 09:38:51] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:51] SQL 3 gucci
+[2017-04-21 09:38:51] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 252, null);
+[2017-04-21 09:38:51] SQL 4 gucci
+[2017-04-21 09:38:51] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:38:51] SQL 5 gucci
+[2017-04-21 09:38:51] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:38:51] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:51] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:38:51] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:38:51] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 0, 65262, 253, 0, null);
+[2017-04-21 09:38:51] SQL 8 gucci
+[2017-04-21 09:39:02] Cronjob ran!
+[2017-04-21 09:39:02] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:39:02] SQL 1 gucci
+[2017-04-21 09:39:02] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:02] SQL 2 gucci
+[2017-04-21 09:39:02] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:02] SQL 3 gucci
+[2017-04-21 09:39:02] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 252, null);
+[2017-04-21 09:39:02] SQL 4 gucci
+[2017-04-21 09:39:02] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:02] SQL 5 gucci
+[2017-04-21 09:39:02] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:39:02] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:39:02] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:39:02] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:39:02] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 254, null);
+[2017-04-21 09:39:02] SQL 8 gucci
+[2017-04-21 09:39:09] Cronjob ran!
+[2017-04-21 09:39:10] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 0, 47125, 253, 0, null);
+[2017-04-21 09:39:10] SQL 1 gucci
+[2017-04-21 09:39:10] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:10] SQL 2 gucci
+[2017-04-21 09:39:10] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:10] SQL 3 gucci
+[2017-04-21 09:39:10] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 0, 65031, 254, 0, null);
+[2017-04-21 09:39:10] SQL 4 gucci
+[2017-04-21 09:39:10] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:10] SQL 5 gucci
+[2017-04-21 09:39:10] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:39:10] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:39:10] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:39:10] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:39:10] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 0, 65262, 253, 0, null);
+[2017-04-21 09:39:10] SQL 8 gucci
+[2017-04-21 09:39:17] Cronjob ran!
+[2017-04-21 09:39:17] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:39:17] SQL 1 gucci
+[2017-04-21 09:39:17] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:17] SQL 2 gucci
+[2017-04-21 09:39:17] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:17] SQL 3 gucci
+[2017-04-21 09:39:17] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 84, null);
+[2017-04-21 09:39:17] SQL 4 gucci
+[2017-04-21 09:39:17] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:39:17] SQL 5 gucci
+[2017-04-21 09:39:17] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:39:17] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:39:17] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:39:17] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:39:17] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 85, null);
+[2017-04-21 09:39:17] SQL 8 gucci
+[2017-04-21 09:40:00] Cronjob ran!
+[2017-04-21 09:40:00] SQL 1: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:30:4a-0b', 1, 47125, 253, 254, null);
+[2017-04-21 09:40:00] SQL 1 gucci
+[2017-04-21 09:40:00] SQL 2: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:2b:56-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:40:00] SQL 2 gucci
+[2017-04-21 09:40:00] SQL 3: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:23:32:e7-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:40:00] SQL 3 gucci
+[2017-04-21 09:40:00] SQL 4: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:3d:c8:e7-0b', 1, 65031, 254, 84, null);
+[2017-04-21 09:40:00] SQL 4 gucci
+[2017-04-21 09:40:00] SQL 5: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:5e:01:4c-0b', 0, 0, 0, 0, null);
+[2017-04-21 09:40:00] SQL 5 gucci
+[2017-04-21 09:40:00] SQL 6: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:d6-0b', 0, , , 0, null);
+[2017-04-21 09:40:00] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:40:00] SQL 7: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:02:31:43:df-0b', 0, , , 0, null);
+[2017-04-21 09:40:00] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' , 0, null)' at line 1
+[2017-04-21 09:40:00] SQL 8: INSERT INTO hue_entries VALUES (null, 1, '00:17:88:01:00:fc:90:2f-0b', 1, 65262, 253, 85, null);
+[2017-04-21 09:40:00] SQL 8 gucci
+[2017-04-21 09:40:52] Cronjob ran!0, 254, null);
+[2017-04-21 09:40:52] SQL 1 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 254, null)' at line 10, 0, null);
+[2017-04-21 09:40:52] SQL 2 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 0, null)' at line 10, 0, null);
+[2017-04-21 09:40:52] SQL 3 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 0, null)' at line 10, 84, null);
+[2017-04-21 09:40:52] SQL 4 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 84, null)' at line 10, 0, null);
+[2017-04-21 09:40:52] SQL 5 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 0, null)' at line 10, 0, null);
+[2017-04-21 09:40:52] SQL 6 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 0, null)' at line 10, 0, null);
+[2017-04-21 09:40:52] SQL 7 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 0, null)' at line 10, 85, null);
+[2017-04-21 09:40:52] SQL 8 FAILED: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 85, null)' at line 1
+[2017-04-21 09:42:59] Cronjob ran!0, 254, null);
+[2017-04-21 09:42:59] SQL 1 gucci0, 0, null);
+[2017-04-21 09:42:59] SQL 2 gucci0, 0, null);
+[2017-04-21 09:42:59] SQL 3 gucci0, 84, null);
+[2017-04-21 09:42:59] SQL 4 gucci0, 0, null);
+[2017-04-21 09:42:59] SQL 5 gucci0, 0, null);
+[2017-04-21 09:42:59] SQL 6 gucci0, 0, null);
+[2017-04-21 09:42:59] SQL 7 gucci0, 85, null);
+[2017-04-21 09:42:59] SQL 8 gucci
+[2017-04-21 09:50:00] Cronjob ran!0, 0, null);
+[2017-04-21 09:50:01] SQL 1 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 2 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 3 gucci0, 84, null);
+[2017-04-21 09:50:01] SQL 4 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 5 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 6 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 7 gucci0, 85, null);
+[2017-04-21 09:50:01] SQL 8 gucci
+[2017-04-21 09:50:01] Cronjob ran!0, 0, null);
+[2017-04-21 09:50:01] SQL 1 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 2 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 3 gucci0, 84, null);
+[2017-04-21 09:50:01] SQL 4 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 5 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 6 gucci0, 0, null);
+[2017-04-21 09:50:01] SQL 7 gucci0, 85, null);
+[2017-04-21 09:50:01] SQL 8 gucci
+[2017-04-21 09:50:12] Cronjob ran!0, 254, null);
+[2017-04-21 09:50:12] SQL 1 gucci0, 0, null);
+[2017-04-21 09:50:12] SQL 2 gucci0, 0, null);
+[2017-04-21 09:50:12] SQL 3 gucci0, 201, null);
+[2017-04-21 09:50:12] SQL 4 gucci0, 0, null);
+[2017-04-21 09:50:12] SQL 5 gucci0, 0, null);
+[2017-04-21 09:50:12] SQL 6 gucci0, 0, null);
+[2017-04-21 09:50:12] SQL 7 gucci0, 201, null);
+[2017-04-21 09:50:12] SQL 8 gucci
+[2017-04-21 09:50:20] Cronjob ran!0, 254, null);
+[2017-04-21 09:50:20] SQL 1 gucci0, 0, null);
+[2017-04-21 09:50:20] SQL 2 gucci0, 0, null);
+[2017-04-21 09:50:20] SQL 3 gucci0, 109, null);
+[2017-04-21 09:50:20] SQL 4 gucci0, 0, null);
+[2017-04-21 09:50:20] SQL 5 gucci0, 0, null);
+[2017-04-21 09:50:20] SQL 6 gucci0, 0, null);
+[2017-04-21 09:50:20] SQL 7 gucci0, 201, null);
+[2017-04-21 09:50:20] SQL 8 gucci
+[2017-04-21 10:00:00] Cronjob ran!0, 0, null);
+[2017-04-21 10:00:00] SQL 1 gucci0, 0, null);
+[2017-04-21 10:00:00] SQL 2 gucci0, 0, null);
+[2017-04-21 10:00:00] SQL 3 gucci0, 109, null);
+[2017-04-21 10:00:00] SQL 4 gucci0, 0, null);
+[2017-04-21 10:00:00] SQL 5 gucci0, 0, null);
+[2017-04-21 10:00:00] SQL 6 gucci0, 0, null);
+[2017-04-21 10:00:00] SQL 7 gucci0, 226, null);
+[2017-04-21 10:00:00] SQL 8 gucci
+[2017-04-21 10:10:01] Cronjob ran!0, 0, null);
+[2017-04-21 10:10:01] SQL 1 gucci0, 0, null);
+[2017-04-21 10:10:01] SQL 2 gucci0, 0, null);
+[2017-04-21 10:10:01] SQL 3 gucci0, 109, null);
+[2017-04-21 10:10:01] SQL 4 gucci0, 0, null);
+[2017-04-21 10:10:01] SQL 5 gucci0, 0, null);
+[2017-04-21 10:10:01] SQL 6 gucci0, 0, null);
+[2017-04-21 10:10:01] SQL 7 gucci0, 226, null);
+[2017-04-21 10:10:01] SQL 8 gucci
+[2017-04-21 10:20:01] Cronjob ran!0, 0, null);
+[2017-04-21 10:20:01] SQL 1 gucci0, 0, null);
+[2017-04-21 10:20:01] SQL 2 gucci0, 0, null);
+[2017-04-21 10:20:01] SQL 3 gucci0, 109, null);
+[2017-04-21 10:20:01] SQL 4 gucci0, 0, null);
+[2017-04-21 10:20:01] SQL 5 gucci0, 0, null);
+[2017-04-21 10:20:01] SQL 6 gucci0, 0, null);
+[2017-04-21 10:20:01] SQL 7 gucci0, 226, null);
+[2017-04-21 10:20:01] SQL 8 gucci
+[2017-04-21 10:27:15] Cronjob ran!0, 254, null);
+[2017-04-21 10:27:15] SQL 1 gucci0, 0, null);
+[2017-04-21 10:27:15] SQL 2 gucci0, 0, null);
+[2017-04-21 10:27:15] SQL 3 gucci0, 109, null);
+[2017-04-21 10:27:15] SQL 4 gucci0, 0, null);
+[2017-04-21 10:27:15] SQL 5 gucci0, 0, null);
+[2017-04-21 10:27:15] SQL 6 gucci0, 0, null);
+[2017-04-21 10:27:15] SQL 7 gucci0, 226, null);
+[2017-04-21 10:27:15] SQL 8 gucci
+[2017-04-21 10:30:00] Cronjob ran!0, 254, null);
+[2017-04-21 10:30:00] SQL 1 gucci0, 0, null);
+[2017-04-21 10:30:00] SQL 2 gucci0, 0, null);
+[2017-04-21 10:30:00] SQL 3 gucci0, 254, null);
+[2017-04-21 10:30:00] SQL 4 gucci0, 0, null);
+[2017-04-21 10:30:00] SQL 5 gucci0, 0, null);
+[2017-04-21 10:30:00] SQL 6 gucci0, 0, null);
+[2017-04-21 10:30:00] SQL 7 gucci0, 254, null);
+[2017-04-21 10:30:00] SQL 8 gucci
+[2017-04-21 10:40:00] Cronjob ran!0, 254, null);
+[2017-04-21 10:40:00] SQL 1 gucci0, 0, null);
+[2017-04-21 10:40:00] SQL 2 gucci0, 0, null);
+[2017-04-21 10:40:00] SQL 3 gucci0, 254, null);
+[2017-04-21 10:40:00] SQL 4 gucci0, 0, null);
+[2017-04-21 10:40:00] SQL 5 gucci0, 0, null);
+[2017-04-21 10:40:00] SQL 6 gucci0, 0, null);
+[2017-04-21 10:40:00] SQL 7 gucci0, 254, null);
+[2017-04-21 10:40:00] SQL 8 gucci
+[2017-04-21 10:41:02] Cronjob ran!0, 254, null);
+[2017-04-21 10:41:03] SQL 1 gucci0, 0, null);
+[2017-04-21 10:41:03] SQL 2 gucci0, 0, null);
+[2017-04-21 10:41:03] SQL 3 gucci0, 254, null);
+[2017-04-21 10:41:03] SQL 4 gucci0, 0, null);
+[2017-04-21 10:41:03] SQL 5 gucci0, 0, null);
+[2017-04-21 10:41:03] SQL 6 gucci0, 0, null);
+[2017-04-21 10:41:03] SQL 7 gucci0, 97, null);
+[2017-04-21 10:41:03] SQL 8 gucci
+[2017-04-21 10:53:09] Cronjob ran!0, 254, null);
+[2017-04-21 10:53:09] SQL 1 gucci0, 0, null);
+[2017-04-21 10:53:09] SQL 2 gucci0, 0, null);
+[2017-04-21 10:53:09] SQL 3 gucci0, 254, null);
+[2017-04-21 10:53:09] SQL 4 gucci0, 0, null);
+[2017-04-21 10:53:09] SQL 5 gucci0, 0, null);
+[2017-04-21 10:53:09] SQL 6 gucci0, 0, null);
+[2017-04-21 10:53:09] SQL 7 gucci0, 184, null);
+[2017-04-21 10:53:09] SQL 8 gucci
+[2017-04-21 11:00:00] Cronjob ran!0, 254, null);
+[2017-04-21 11:00:00] SQL 1 gucci0, 0, null);
+[2017-04-21 11:00:00] SQL 2 gucci0, 0, null);
+[2017-04-21 11:00:00] SQL 3 gucci0, 254, null);
+[2017-04-21 11:00:00] SQL 4 gucci0, 0, null);
+[2017-04-21 11:00:00] SQL 5 gucci0, 0, null);
+[2017-04-21 11:00:00] SQL 6 gucci0, 0, null);
+[2017-04-21 11:00:00] SQL 7 gucci0, 184, null);
+[2017-04-21 11:00:00] SQL 8 gucci
+[2017-04-21 11:10:00] Cronjob ran!0, 254, null);
+[2017-04-21 11:10:00] SQL 1 gucci0, 0, null);
+[2017-04-21 11:10:00] SQL 2 gucci0, 0, null);
+[2017-04-21 11:10:00] SQL 3 gucci0, 254, null);
+[2017-04-21 11:10:00] SQL 4 gucci0, 0, null);
+[2017-04-21 11:10:00] SQL 5 gucci0, 0, null);
+[2017-04-21 11:10:00] SQL 6 gucci0, 0, null);
+[2017-04-21 11:10:00] SQL 7 gucci0, 184, null);
+[2017-04-21 11:10:00] SQL 8 gucci
+[2017-04-21 11:16:35] Cronjob ran!0, 254, null);
+[2017-04-21 11:16:35] SQL 1 gucci0, 0, null);
+[2017-04-21 11:16:35] SQL 2 gucci0, 0, null);
+[2017-04-21 11:16:35] SQL 3 gucci0, 254, null);
+[2017-04-21 11:16:35] SQL 4 gucci0, 0, null);
+[2017-04-21 11:16:35] SQL 5 gucci0, 0, null);
+[2017-04-21 11:16:35] SQL 6 gucci0, 0, null);
+[2017-04-21 11:16:35] SQL 7 gucci0, 184, null);
+[2017-04-21 11:16:35] SQL 8 gucci
+[2017-04-21 11:18:31] Cronjob ran!0, 254, null);
+[2017-04-21 11:18:31] SQL 1 gucci0, 0, null);
+[2017-04-21 11:18:31] SQL 2 gucci0, 0, null);
+[2017-04-21 11:18:31] SQL 3 gucci0, 254, null);
+[2017-04-21 11:18:31] SQL 4 gucci0, 0, null);
+[2017-04-21 11:18:31] SQL 5 gucci0, 0, null);
+[2017-04-21 11:18:31] SQL 6 gucci0, 0, null);
+[2017-04-21 11:18:31] SQL 7 gucci0, 184, null);
+[2017-04-21 11:18:31] SQL 8 gucci
+[2017-04-21 11:20:01] Cronjob ran!0, 254, null);
+[2017-04-21 11:20:01] SQL 1 gucci0, 0, null);
+[2017-04-21 11:20:01] SQL 2 gucci0, 0, null);
+[2017-04-21 11:20:01] SQL 3 gucci0, 254, null);
+[2017-04-21 11:20:01] SQL 4 gucci0, 0, null);
+[2017-04-21 11:20:01] SQL 5 gucci0, 0, null);
+[2017-04-21 11:20:01] SQL 6 gucci0, 0, null);
+[2017-04-21 11:20:01] SQL 7 gucci0, 184, null);
+[2017-04-21 11:20:01] SQL 8 gucci
+[2017-04-21 11:27:15] Cronjob ran!0, 254, null);
+[2017-04-21 11:27:15] SQL 1 gucci0, 0, null);
+[2017-04-21 11:27:15] SQL 2 gucci0, 0, null);
+[2017-04-21 11:27:15] SQL 3 gucci0, 101, null);
+[2017-04-21 11:27:15] SQL 4 gucci0, 0, null);
+[2017-04-21 11:27:15] SQL 5 gucci0, 0, null);
+[2017-04-21 11:27:15] SQL 6 gucci0, 0, null);
+[2017-04-21 11:27:15] SQL 7 gucci0, 184, null);
+[2017-04-21 11:27:15] SQL 8 gucci
+[2017-04-21 11:27:37] Cronjob ran!0, 0, null);
+[2017-04-21 11:27:37] SQL 1 gucci0, 0, null);
+[2017-04-21 11:27:37] SQL 2 gucci0, 0, null);
+[2017-04-21 11:27:37] SQL 3 gucci0, 101, null);
+[2017-04-21 11:27:37] SQL 4 gucci0, 0, null);
+[2017-04-21 11:27:37] SQL 5 gucci0, 0, null);
+[2017-04-21 11:27:37] SQL 6 gucci0, 0, null);
+[2017-04-21 11:27:37] SQL 7 gucci0, 254, null);
+[2017-04-21 11:27:37] SQL 8 gucci
+[2017-04-21 11:28:15] Cronjob ran!0, 0, null);
+[2017-04-21 11:28:15] SQL 1 gucci0, 0, null);
+[2017-04-21 11:28:15] SQL 2 gucci0, 0, null);
+[2017-04-21 11:28:15] SQL 3 gucci0, 101, null);
+[2017-04-21 11:28:15] SQL 4 gucci0, 0, null);
+[2017-04-21 11:28:15] SQL 5 gucci0, 0, null);
+[2017-04-21 11:28:15] SQL 6 gucci0, 0, null);
+[2017-04-21 11:28:15] SQL 7 gucci0, 184, null);
+[2017-04-21 11:28:15] SQL 8 gucci
+[2017-04-21 11:28:25] Cronjob ran!0, 0, null);
+[2017-04-21 11:28:25] SQL 1 gucci0, 0, null);
+[2017-04-21 11:28:25] SQL 2 gucci0, 0, null);
+[2017-04-21 11:28:25] SQL 3 gucci0, 101, null);
+[2017-04-21 11:28:25] SQL 4 gucci0, 0, null);
+[2017-04-21 11:28:25] SQL 5 gucci0, 0, null);
+[2017-04-21 11:28:25] SQL 6 gucci0, 0, null);
+[2017-04-21 11:28:25] SQL 7 gucci0, 0, null);
+[2017-04-21 11:28:25] SQL 8 gucci
+[2017-04-21 11:28:30] Cronjob ran!0, 0, null);
+[2017-04-21 11:28:30] SQL 1 gucci0, 0, null);
+[2017-04-21 11:28:30] SQL 2 gucci0, 0, null);
+[2017-04-21 11:28:30] SQL 3 gucci0, 254, null);
+[2017-04-21 11:28:30] SQL 4 gucci0, 0, null);
+[2017-04-21 11:28:30] SQL 5 gucci0, 0, null);
+[2017-04-21 11:28:30] SQL 6 gucci0, 0, null);
+[2017-04-21 11:28:30] SQL 7 gucci0, 0, null);
+[2017-04-21 11:28:30] SQL 8 gucci
+[2017-04-21 11:28:50] Cronjob ran!0, 254, null);
+[2017-04-21 11:28:50] SQL 1 gucci0, 0, null);
+[2017-04-21 11:28:50] SQL 2 gucci0, 0, null);
+[2017-04-21 11:28:50] SQL 3 gucci0, 161, null);
+[2017-04-21 11:28:50] SQL 4 gucci0, 0, null);
+[2017-04-21 11:28:50] SQL 5 gucci0, 0, null);
+[2017-04-21 11:28:50] SQL 6 gucci0, 0, null);
+[2017-04-21 11:28:50] SQL 7 gucci0, 0, null);
+[2017-04-21 11:28:50] SQL 8 gucci
+[2017-04-21 11:30:00] Cronjob ran!0, 254, null);
+[2017-04-21 11:30:00] SQL 1 gucci0, 0, null);
+[2017-04-21 11:30:00] SQL 2 gucci0, 0, null);
+[2017-04-21 11:30:00] SQL 3 gucci0, 161, null);
+[2017-04-21 11:30:00] SQL 4 gucci0, 0, null);
+[2017-04-21 11:30:00] SQL 5 gucci0, 0, null);
+[2017-04-21 11:30:00] SQL 6 gucci0, 0, null);
+[2017-04-21 11:30:00] SQL 7 gucci0, 217, null);
+[2017-04-21 11:30:00] SQL 8 gucci
+[2017-04-21 11:30:47] Cronjob ran!0, 254, null);
+[2017-04-21 11:30:47] SQL 1 gucci0, 0, null);
+[2017-04-21 11:30:47] SQL 2 gucci0, 0, null);
+[2017-04-21 11:30:47] SQL 3 gucci0, 254, null);
+[2017-04-21 11:30:47] SQL 4 gucci0, 0, null);
+[2017-04-21 11:30:47] SQL 5 gucci0, 0, null);
+[2017-04-21 11:30:47] SQL 6 gucci0, 0, null);
+[2017-04-21 11:30:47] SQL 7 gucci0, 217, null);
+[2017-04-21 11:30:47] SQL 8 gucci
+[2017-04-21 11:40:00] Cronjob ran!0, 254, null);
+[2017-04-21 11:40:00] SQL 1 gucci0, 0, null);
+[2017-04-21 11:40:00] SQL 2 gucci0, 0, null);
+[2017-04-21 11:40:00] SQL 3 gucci0, 254, null);
+[2017-04-21 11:40:00] SQL 4 gucci0, 0, null);
+[2017-04-21 11:40:00] SQL 5 gucci0, 0, null);
+[2017-04-21 11:40:00] SQL 6 gucci0, 0, null);
+[2017-04-21 11:40:00] SQL 7 gucci0, 217, null);
+[2017-04-21 11:40:00] SQL 8 gucci
+[2017-04-21 11:41:45] Cronjob ran!0, 0, null);
+[2017-04-21 11:41:59] SQL 1 gucci0, 0, null);
+[2017-04-21 11:41:59] SQL 2 gucci0, 0, null);
+[2017-04-21 11:41:59] SQL 3 gucci0, 254, null);
+[2017-04-21 11:41:59] SQL 4 gucci0, 0, null);
+[2017-04-21 11:41:59] SQL 5 gucci0, 0, null);
+[2017-04-21 11:41:59] SQL 6 gucci0, 0, null);
+[2017-04-21 11:41:59] SQL 7 gucci0, 217, null);
+[2017-04-21 11:41:59] SQL 8 gucci
+[2017-04-21 11:42:00] Cronjob ran!0, 0, null);
+[2017-04-21 11:42:06] SQL 1 gucci0, 0, null);
+[2017-04-21 11:42:06] SQL 2 gucci0, 0, null);
+[2017-04-21 11:42:06] SQL 3 gucci0, 254, null);
+[2017-04-21 11:42:06] SQL 4 gucci0, 0, null);
+[2017-04-21 11:42:06] SQL 5 gucci0, 0, null);
+[2017-04-21 11:42:06] SQL 6 gucci0, 0, null);
+[2017-04-21 11:42:06] SQL 7 gucci0, 217, null);
+[2017-04-21 11:42:06] SQL 8 gucci
+[2017-04-21 11:42:37] Cronjob ran!0, 157, null);
+[2017-04-21 11:42:37] SQL 1 gucci0, 0, null);
+[2017-04-21 11:42:37] SQL 2 gucci0, 0, null);
+[2017-04-21 11:42:37] SQL 3 gucci0, 254, null);
+[2017-04-21 11:42:37] SQL 4 gucci0, 0, null);
+[2017-04-21 11:42:37] SQL 5 gucci0, 0, null);
+[2017-04-21 11:42:37] SQL 6 gucci0, 0, null);
+[2017-04-21 11:42:37] SQL 7 gucci0, 217, null);
+[2017-04-21 11:42:37] SQL 8 gucci
+[2017-04-21 11:44:05] Cronjob ran!0, 157, null);
+[2017-04-21 11:44:05] SQL 1 gucci0, 0, null);
+[2017-04-21 11:44:05] SQL 2 gucci0, 0, null);
+[2017-04-21 11:44:05] SQL 3 gucci0, 96, null);
+[2017-04-21 11:44:05] SQL 4 gucci0, 0, null);
+[2017-04-21 11:44:05] SQL 5 gucci0, 0, null);
+[2017-04-21 11:44:05] SQL 6 gucci0, 0, null);
+[2017-04-21 11:44:05] SQL 7 gucci0, 238, null);
+[2017-04-21 11:44:05] SQL 8 gucci
+[2017-04-21 11:50:00] Cronjob ran!0, 157, null);
+[2017-04-21 11:50:00] SQL 1 gucci0, 0, null);
+[2017-04-21 11:50:00] SQL 2 gucci0, 0, null);
+[2017-04-21 11:50:00] SQL 3 gucci0, 96, null);
+[2017-04-21 11:50:00] SQL 4 gucci0, 0, null);
+[2017-04-21 11:50:00] SQL 5 gucci0, 0, null);
+[2017-04-21 11:50:00] SQL 6 gucci0, 0, null);
+[2017-04-21 11:50:00] SQL 7 gucci0, 238, null);
+[2017-04-21 11:50:00] SQL 8 gucci
+[2017-04-21 12:00:00] Cronjob ran!0, 157, null);
+[2017-04-21 12:00:00] SQL 1 gucci0, 0, null);
+[2017-04-21 12:00:00] SQL 2 gucci0, 0, null);
+[2017-04-21 12:00:00] SQL 3 gucci0, 96, null);
+[2017-04-21 12:00:00] SQL 4 gucci0, 0, null);
+[2017-04-21 12:00:00] SQL 5 gucci0, 0, null);
+[2017-04-21 12:00:00] SQL 6 gucci0, 0, null);
+[2017-04-21 12:00:00] SQL 7 gucci0, 238, null);
+[2017-04-21 12:00:00] SQL 8 gucci
+[2017-04-21 12:10:00] Cronjob ran!0, 157, null);
+[2017-04-21 12:10:00] SQL 1 gucci0, 0, null);
+[2017-04-21 12:10:00] SQL 2 gucci0, 0, null);
+[2017-04-21 12:10:00] SQL 3 gucci0, 96, null);
+[2017-04-21 12:10:00] SQL 4 gucci0, 0, null);
+[2017-04-21 12:10:00] SQL 5 gucci0, 0, null);
+[2017-04-21 12:10:00] SQL 6 gucci0, 0, null);
+[2017-04-21 12:10:00] SQL 7 gucci0, 238, null);
+[2017-04-21 12:10:00] SQL 8 gucci
+[2017-04-21 12:20:00] Cronjob ran!0, 157, null);
+[2017-04-21 12:20:01] SQL 1 gucci0, 0, null);
+[2017-04-21 12:20:01] SQL 2 gucci0, 0, null);
+[2017-04-21 12:20:01] SQL 3 gucci0, 96, null);
+[2017-04-21 12:20:01] SQL 4 gucci0, 0, null);
+[2017-04-21 12:20:01] SQL 5 gucci0, 0, null);
+[2017-04-21 12:20:01] SQL 6 gucci0, 0, null);
+[2017-04-21 12:20:01] SQL 7 gucci0, 238, null);
+[2017-04-21 12:20:01] SQL 8 gucci
+[2017-04-21 12:29:04] Cronjob ran!0, 157, null);
+[2017-04-21 12:29:04] SQL 1 gucci0, 0, null);
+[2017-04-21 12:29:04] SQL 2 gucci0, 0, null);
+[2017-04-21 12:29:04] SQL 3 gucci0, 155, null);
+[2017-04-21 12:29:04] SQL 4 gucci0, 0, null);
+[2017-04-21 12:29:04] SQL 5 gucci0, 0, null);
+[2017-04-21 12:29:04] SQL 6 gucci0, 0, null);
+[2017-04-21 12:29:04] SQL 7 gucci0, 238, null);
+[2017-04-21 12:29:04] SQL 8 gucci
+[2017-04-21 12:29:13] Cronjob ran!0, 157, null);
+[2017-04-21 12:29:13] SQL 1 gucci0, 0, null);
+[2017-04-21 12:29:13] SQL 2 gucci0, 0, null);
+[2017-04-21 12:29:13] SQL 3 gucci0, 187, null);
+[2017-04-21 12:29:13] SQL 4 gucci0, 0, null);
+[2017-04-21 12:29:13] SQL 5 gucci0, 0, null);
+[2017-04-21 12:29:13] SQL 6 gucci0, 0, null);
+[2017-04-21 12:29:13] SQL 7 gucci0, 238, null);
+[2017-04-21 12:29:13] SQL 8 gucci
+[2017-04-21 12:30:01] Cronjob ran!0, 157, null);
+[2017-04-21 12:30:01] SQL 1 gucci0, 0, null);
+[2017-04-21 12:30:01] SQL 2 gucci0, 0, null);
+[2017-04-21 12:30:01] SQL 3 gucci0, 187, null);
+[2017-04-21 12:30:01] SQL 4 gucci0, 0, null);
+[2017-04-21 12:30:01] SQL 5 gucci0, 0, null);
+[2017-04-21 12:30:01] SQL 6 gucci0, 0, null);
+[2017-04-21 12:30:01] SQL 7 gucci0, 238, null);
+[2017-04-21 12:30:01] SQL 8 gucci
+[2017-04-21 12:40:00] Cronjob ran!0, 157, null);
+[2017-04-21 12:40:00] SQL 1 gucci0, 0, null);
+[2017-04-21 12:40:00] SQL 2 gucci0, 0, null);
+[2017-04-21 12:40:00] SQL 3 gucci0, 187, null);
+[2017-04-21 12:40:00] SQL 4 gucci0, 0, null);
+[2017-04-21 12:40:00] SQL 5 gucci0, 0, null);
+[2017-04-21 12:40:00] SQL 6 gucci0, 0, null);
+[2017-04-21 12:40:00] SQL 7 gucci0, 238, null);
+[2017-04-21 12:40:00] SQL 8 gucci
+[2017-04-21 12:50:00] Cronjob ran!0, 157, null);
+[2017-04-21 12:50:00] SQL 1 gucci0, 0, null);
+[2017-04-21 12:50:00] SQL 2 gucci0, 0, null);
+[2017-04-21 12:50:00] SQL 3 gucci0, 254, null);
+[2017-04-21 12:50:00] SQL 4 gucci0, 0, null);
+[2017-04-21 12:50:00] SQL 5 gucci0, 0, null);
+[2017-04-21 12:50:00] SQL 6 gucci0, 0, null);
+[2017-04-21 12:50:00] SQL 7 gucci0, 254, null);
+[2017-04-21 12:50:00] SQL 8 gucci
+[2017-04-21 12:53:18] Cronjob ran!0, 157, null);
+[2017-04-21 12:53:18] SQL 1 gucci0, 0, null);
+[2017-04-21 12:53:18] SQL 2 gucci0, 0, null);
+[2017-04-21 12:53:18] SQL 3 gucci0, 254, null);
+[2017-04-21 12:53:18] SQL 4 gucci0, 0, null);
+[2017-04-21 12:53:18] SQL 5 gucci0, 0, null);
+[2017-04-21 12:53:18] SQL 6 gucci0, 0, null);
+[2017-04-21 12:53:18] SQL 7 gucci0, 254, null);
+[2017-04-21 12:53:18] SQL 8 gucci
+[2017-04-21 12:53:30] Cronjob ran!0, 0, null);
+[2017-04-21 12:53:30] SQL 1 gucci0, 0, null);
+[2017-04-21 12:53:30] SQL 2 gucci0, 0, null);
+[2017-04-21 12:53:30] SQL 3 gucci0, 254, null);
+[2017-04-21 12:53:30] SQL 4 gucci0, 0, null);
+[2017-04-21 12:53:30] SQL 5 gucci0, 0, null);
+[2017-04-21 12:53:30] SQL 6 gucci0, 0, null);
+[2017-04-21 12:53:30] SQL 7 gucci0, 254, null);
+[2017-04-21 12:53:30] SQL 8 gucci
+[2017-04-21 12:53:38] Cronjob ran!0, 157, null);
+[2017-04-21 12:53:38] SQL 1 gucci0, 0, null);
+[2017-04-21 12:53:38] SQL 2 gucci0, 0, null);
+[2017-04-21 12:53:38] SQL 3 gucci0, 254, null);
+[2017-04-21 12:53:38] SQL 4 gucci0, 0, null);
+[2017-04-21 12:53:38] SQL 5 gucci0, 0, null);
+[2017-04-21 12:53:38] SQL 6 gucci0, 0, null);
+[2017-04-21 12:53:38] SQL 7 gucci0, 254, null);
+[2017-04-21 12:53:38] SQL 8 gucci
+[2017-04-21 12:53:55] Cronjob ran!0, 157, null);
+[2017-04-21 12:53:55] SQL 1 gucci0, 0, null);
+[2017-04-21 12:53:55] SQL 2 gucci0, 0, null);
+[2017-04-21 12:53:55] SQL 3 gucci0, 254, null);
+[2017-04-21 12:53:55] SQL 4 gucci0, 0, null);
+[2017-04-21 12:53:55] SQL 5 gucci0, 0, null);
+[2017-04-21 12:53:55] SQL 6 gucci0, 0, null);
+[2017-04-21 12:53:55] SQL 7 gucci0, 254, null);
+[2017-04-21 12:53:55] SQL 8 gucci
+[2017-04-21 12:55:32] Cronjob ran!0, 157, null);
+[2017-04-21 12:55:32] SQL 1 gucci0, 0, null);
+[2017-04-21 12:55:32] SQL 2 gucci0, 0, null);
+[2017-04-21 12:55:32] SQL 3 gucci0, 254, null);
+[2017-04-21 12:55:32] SQL 4 gucci0, 0, null);
+[2017-04-21 12:55:32] SQL 5 gucci0, 0, null);
+[2017-04-21 12:55:32] SQL 6 gucci0, 0, null);
+[2017-04-21 12:55:32] SQL 7 gucci0, 254, null);
+[2017-04-21 12:55:32] SQL 8 gucci
+[2017-04-21 12:55:59] Cronjob ran!0, 157, null);
+[2017-04-21 12:55:59] SQL 1 gucci0, 0, null);
+[2017-04-21 12:55:59] SQL 2 gucci0, 0, null);
+[2017-04-21 12:55:59] SQL 3 gucci0, 254, null);
+[2017-04-21 12:55:59] SQL 4 gucci0, 0, null);
+[2017-04-21 12:55:59] SQL 5 gucci0, 0, null);
+[2017-04-21 12:55:59] SQL 6 gucci0, 0, null);
+[2017-04-21 12:55:59] SQL 7 gucci0, 254, null);
+[2017-04-21 12:55:59] SQL 8 gucci
+[2017-04-21 13:00:00] Cronjob ran!0, 157, null);
+[2017-04-21 13:00:00] SQL 1 gucci0, 0, null);
+[2017-04-21 13:00:00] SQL 2 gucci0, 0, null);
+[2017-04-21 13:00:00] SQL 3 gucci0, 254, null);
+[2017-04-21 13:00:00] SQL 4 gucci0, 0, null);
+[2017-04-21 13:00:00] SQL 5 gucci0, 0, null);
+[2017-04-21 13:00:00] SQL 6 gucci0, 0, null);
+[2017-04-21 13:00:00] SQL 7 gucci0, 254, null);
+[2017-04-21 13:00:00] SQL 8 gucci
+[2017-04-21 13:00:52] Cronjob ran!0, 157, null);
+[2017-04-21 13:00:52] SQL 1 gucci0, 0, null);
+[2017-04-21 13:00:52] SQL 2 gucci0, 0, null);
+[2017-04-21 13:00:52] SQL 3 gucci0, 254, null);
+[2017-04-21 13:00:52] SQL 4 gucci0, 0, null);
+[2017-04-21 13:00:52] SQL 5 gucci0, 0, null);
+[2017-04-21 13:00:52] SQL 6 gucci0, 0, null);
+[2017-04-21 13:00:52] SQL 7 gucci0, 80, null);
+[2017-04-21 13:00:52] SQL 8 gucci
+[2017-04-21 13:01:00] Cronjob ran!0, 157, null);
+[2017-04-21 13:01:00] SQL 1 gucci0, 0, null);
+[2017-04-21 13:01:00] SQL 2 gucci0, 0, null);
+[2017-04-21 13:01:00] SQL 3 gucci0, 214, null);
+[2017-04-21 13:01:00] SQL 4 gucci0, 0, null);
+[2017-04-21 13:01:00] SQL 5 gucci0, 0, null);
+[2017-04-21 13:01:00] SQL 6 gucci0, 0, null);
+[2017-04-21 13:01:00] SQL 7 gucci0, 80, null);
+[2017-04-21 13:01:00] SQL 8 gucci
+[2017-04-21 13:10:01] Cronjob ran!0, 157, null);
+[2017-04-21 13:10:02] SQL 1 gucci0, 0, null);
+[2017-04-21 13:10:02] SQL 2 gucci0, 0, null);
+[2017-04-21 13:10:02] SQL 3 gucci0, 214, null);
+[2017-04-21 13:10:02] SQL 4 gucci0, 0, null);
+[2017-04-21 13:10:02] SQL 5 gucci0, 0, null);
+[2017-04-21 13:10:02] SQL 6 gucci0, 0, null);
+[2017-04-21 13:10:02] SQL 7 gucci0, 80, null);
+[2017-04-21 13:10:02] SQL 8 gucci
+[2017-04-21 13:18:39] Cronjob ran!0, 157, null);
+[2017-04-21 13:18:39] SQL 1 gucci0, 0, null);
+[2017-04-21 13:18:39] SQL 2 gucci0, 0, null);
+[2017-04-21 13:18:39] SQL 3 gucci0, 214, null);
+[2017-04-21 13:18:39] SQL 4 gucci0, 0, null);
+[2017-04-21 13:18:39] SQL 5 gucci0, 0, null);
+[2017-04-21 13:18:39] SQL 6 gucci0, 0, null);
+[2017-04-21 13:18:39] SQL 7 gucci0, 80, null);
+[2017-04-21 13:18:39] SQL 8 gucci
+[2017-04-21 13:18:45] Cronjob ran!0, 157, null);
+[2017-04-21 13:18:46] SQL 1 gucci0, 0, null);
+[2017-04-21 13:18:46] SQL 2 gucci0, 0, null);
+[2017-04-21 13:18:46] SQL 3 gucci0, 214, null);
+[2017-04-21 13:18:46] SQL 4 gucci0, 0, null);
+[2017-04-21 13:18:46] SQL 5 gucci0, 0, null);
+[2017-04-21 13:18:46] SQL 6 gucci0, 0, null);
+[2017-04-21 13:18:46] SQL 7 gucci0, 80, null);
+[2017-04-21 13:18:46] SQL 8 gucci
+[2017-04-21 13:20:00] Cronjob ran!0, 157, null);
+[2017-04-21 13:20:01] SQL 1 gucci0, 0, null);
+[2017-04-21 13:20:01] SQL 2 gucci0, 0, null);
+[2017-04-21 13:20:01] SQL 3 gucci0, 197, null);
+[2017-04-21 13:20:01] SQL 4 gucci0, 0, null);
+[2017-04-21 13:20:01] SQL 5 gucci0, 0, null);
+[2017-04-21 13:20:01] SQL 6 gucci0, 0, null);
+[2017-04-21 13:20:01] SQL 7 gucci0, 80, null);
+[2017-04-21 13:20:01] SQL 8 gucci
+[2017-04-21 13:30:00] Cronjob ran!0, 157, null);
+[2017-04-21 13:30:00] SQL 1 gucci0, 0, null);
+[2017-04-21 13:30:00] SQL 2 gucci0, 0, null);
+[2017-04-21 13:30:00] SQL 3 gucci0, 197, null);
+[2017-04-21 13:30:00] SQL 4 gucci0, 0, null);
+[2017-04-21 13:30:00] SQL 5 gucci0, 0, null);
+[2017-04-21 13:30:00] SQL 6 gucci0, 0, null);
+[2017-04-21 13:30:00] SQL 7 gucci0, 80, null);
+[2017-04-21 13:30:00] SQL 8 gucci
+[2017-04-21 13:40:00] Cronjob ran!0, 254, null);
+[2017-04-21 13:40:00] SQL 1 gucci0, 0, null);
+[2017-04-21 13:40:00] SQL 2 gucci0, 0, null);
+[2017-04-21 13:40:00] SQL 3 gucci0, 254, null);
+[2017-04-21 13:40:00] SQL 4 gucci0, 0, null);
+[2017-04-21 13:40:00] SQL 5 gucci0, 0, null);
+[2017-04-21 13:40:00] SQL 6 gucci0, 0, null);
+[2017-04-21 13:40:00] SQL 7 gucci0, 254, null);
+[2017-04-21 13:40:00] SQL 8 gucci
+[2017-04-21 13:50:00] Cronjob ran!0, 254, null);
+[2017-04-21 13:50:06] SQL 1 gucci0, 0, null);
+[2017-04-21 13:50:06] SQL 2 gucci0, 0, null);
+[2017-04-21 13:50:06] SQL 3 gucci0, 254, null);
+[2017-04-21 13:50:06] SQL 4 gucci0, 0, null);
+[2017-04-21 13:50:06] SQL 5 gucci0, 0, null);
+[2017-04-21 13:50:06] SQL 6 gucci0, 0, null);
+[2017-04-21 13:50:06] SQL 7 gucci0, 254, null);
+[2017-04-21 13:50:06] SQL 8 gucci
+[2017-04-21 13:50:13] Cronjob ran!0, 254, null);
+[2017-04-21 13:50:13] SQL 1 gucci0, 0, null);
+[2017-04-21 13:50:13] SQL 2 gucci0, 0, null);
+[2017-04-21 13:50:13] SQL 3 gucci0, 254, null);
+[2017-04-21 13:50:13] SQL 4 gucci0, 0, null);
+[2017-04-21 13:50:13] SQL 5 gucci0, 0, null);
+[2017-04-21 13:50:13] SQL 6 gucci0, 0, null);
+[2017-04-21 13:50:13] SQL 7 gucci0, 254, null);
+[2017-04-21 13:50:13] SQL 8 gucci
+[2017-04-21 13:59:30] Cronjob ran!0, 254, null);
+[2017-04-21 13:59:30] SQL 1 gucci0, 0, null);
+[2017-04-21 13:59:30] SQL 2 gucci0, 0, null);
+[2017-04-21 13:59:30] SQL 3 gucci0, 173, null);
+[2017-04-21 13:59:30] SQL 4 gucci0, 0, null);
+[2017-04-21 13:59:30] SQL 5 gucci0, 0, null);
+[2017-04-21 13:59:30] SQL 6 gucci0, 0, null);
+[2017-04-21 13:59:30] SQL 7 gucci0, 254, null);
+[2017-04-21 13:59:30] SQL 8 gucci
+[2017-04-21 14:00:00] Cronjob ran!0, 254, null);
+[2017-04-21 14:00:00] SQL 1 gucci0, 0, null);
+[2017-04-21 14:00:00] SQL 2 gucci0, 0, null);
+[2017-04-21 14:00:00] SQL 3 gucci0, 151, null);
+[2017-04-21 14:00:00] SQL 4 gucci0, 0, null);
+[2017-04-21 14:00:00] SQL 5 gucci0, 0, null);
+[2017-04-21 14:00:00] SQL 6 gucci0, 0, null);
+[2017-04-21 14:00:00] SQL 7 gucci0, 254, null);
+[2017-04-21 14:00:00] SQL 8 gucci
+[2017-04-21 14:10:00] Cronjob ran!0, 215, null);
+[2017-04-21 14:10:00] SQL 1 gucci0, 0, null);
+[2017-04-21 14:10:00] SQL 2 gucci0, 0, null);
+[2017-04-21 14:10:00] SQL 3 gucci0, 151, null);
+[2017-04-21 14:10:00] SQL 4 gucci0, 0, null);
+[2017-04-21 14:10:00] SQL 5 gucci0, 0, null);
+[2017-04-21 14:10:00] SQL 6 gucci0, 0, null);
+[2017-04-21 14:10:00] SQL 7 gucci0, 254, null);
+[2017-04-21 14:10:00] SQL 8 gucci
+[2017-04-21 14:20:00] Cronjob ran!0, 215, null);
+[2017-04-21 14:20:00] SQL 1 gucci0, 0, null);
+[2017-04-21 14:20:00] SQL 2 gucci0, 0, null);
+[2017-04-21 14:20:00] SQL 3 gucci0, 151, null);
+[2017-04-21 14:20:00] SQL 4 gucci0, 0, null);
+[2017-04-21 14:20:00] SQL 5 gucci0, 0, null);
+[2017-04-21 14:20:00] SQL 6 gucci0, 0, null);
+[2017-04-21 14:20:00] SQL 7 gucci0, 254, null);
+[2017-04-21 14:20:00] SQL 8 gucci
+[2017-04-21 14:30:00] Cronjob ran!0, 254, null);
+[2017-04-21 14:30:00] SQL 1 gucci0, 0, null);
+[2017-04-21 14:30:00] SQL 2 gucci0, 0, null);
+[2017-04-21 14:30:00] SQL 3 gucci0, 254, null);
+[2017-04-21 14:30:00] SQL 4 gucci0, 0, null);
+[2017-04-21 14:30:00] SQL 5 gucci0, 0, null);
+[2017-04-21 14:30:00] SQL 6 gucci0, 0, null);
+[2017-04-21 14:30:00] SQL 7 gucci0, 0, null);
+[2017-04-21 14:30:00] SQL 8 gucci
+[2017-04-21 18:26:28] Cronjob ran!0, 0, null);
+[2017-04-21 18:26:28] SQL 1 gucci0, 0, null);
+[2017-04-21 18:26:28] SQL 2 gucci0, 0, null);
+[2017-04-21 18:26:28] SQL 3 gucci0, 0, null);
+[2017-04-21 18:26:28] SQL 4 gucci0, 0, null);
+[2017-04-21 18:26:28] SQL 5 gucci0, 102, null);
+[2017-04-21 18:26:28] SQL 6 gucci0, 102, null);
+[2017-04-21 18:26:28] SQL 7 gucci0, 0, null);
+[2017-04-21 18:26:28] SQL 8 gucci
+[2017-04-21 18:26:52] Cronjob ran!0, 254, null);
+[2017-04-21 18:26:52] SQL 1 gucci0, 254, null);
+[2017-04-21 18:26:52] SQL 2 gucci0, 254, null);
+[2017-04-21 18:26:52] SQL 3 gucci0, 254, null);
+[2017-04-21 18:26:52] SQL 4 gucci0, 254, null);
+[2017-04-21 18:26:52] SQL 5 gucci0, 102, null);
+[2017-04-21 18:26:52] SQL 6 gucci0, 102, null);
+[2017-04-21 18:26:52] SQL 7 gucci0, 0, null);
+[2017-04-21 18:26:52] SQL 8 gucci
+[2017-04-21 18:28:13] Cronjob ran!0, 254, null);
+[2017-04-21 18:28:13] SQL 1 gucci0, 254, null);
+[2017-04-21 18:28:13] SQL 2 gucci0, 254, null);
+[2017-04-21 18:28:13] SQL 3 gucci0, 254, null);
+[2017-04-21 18:28:13] SQL 4 gucci0, 254, null);
+[2017-04-21 18:28:13] SQL 5 gucci0, 102, null);
+[2017-04-21 18:28:13] SQL 6 gucci0, 102, null);
+[2017-04-21 18:28:13] SQL 7 gucci
+[2017-04-21 18:28:27] Cronjob ran!0, 254, null);
+[2017-04-21 18:28:27] SQL 1 gucci0, 254, null);
+[2017-04-21 18:28:27] SQL 2 gucci0, 254, null);
+[2017-04-21 18:28:27] SQL 3 gucci0, 254, null);
+[2017-04-21 18:28:27] SQL 4 gucci0, 254, null);
+[2017-04-21 18:28:27] SQL 5 gucci0, 102, null);
+[2017-04-21 18:28:27] SQL 6 gucci0, 102, null);
+[2017-04-21 18:28:27] SQL 7 gucci
+[2017-04-21 18:28:41] Cronjob ran!0, 254, null);
+[2017-04-21 18:28:41] SQL 1 gucci0, 254, null);
+[2017-04-21 18:28:41] SQL 2 gucci0, 254, null);
+[2017-04-21 18:28:41] SQL 3 gucci0, 254, null);
+[2017-04-21 18:28:41] SQL 4 gucci0, 254, null);
+[2017-04-21 18:28:41] SQL 5 gucci0, 76, null);
+[2017-04-21 18:28:41] SQL 6 gucci0, 76, null);
+[2017-04-21 18:28:41] SQL 7 gucci
+[2017-04-21 18:28:43] Cronjob ran!0, 254, null);
+[2017-04-21 18:28:43] SQL 1 gucci0, 254, null);
+[2017-04-21 18:28:43] SQL 2 gucci0, 254, null);
+[2017-04-21 18:28:43] SQL 3 gucci0, 254, null);
+[2017-04-21 18:28:43] SQL 4 gucci0, 254, null);
+[2017-04-21 18:28:43] SQL 5 gucci0, 76, null);
+[2017-04-21 18:28:43] SQL 6 gucci0, 76, null);
+[2017-04-21 18:28:43] SQL 7 gucci
+[2017-04-21 18:29:28] Cronjob ran!0, 254, null);
+[2017-04-21 18:29:28] SQL 1 gucci0, 254, null);
+[2017-04-21 18:29:28] SQL 2 gucci0, 254, null);
+[2017-04-21 18:29:28] SQL 3 gucci0, 254, null);
+[2017-04-21 18:29:28] SQL 4 gucci0, 254, null);
+[2017-04-21 18:29:28] SQL 5 gucci0, 76, null);
+[2017-04-21 18:29:28] SQL 6 gucci0, 76, null);
+[2017-04-21 18:29:28] SQL 7 gucci
+[2017-04-21 18:30:00] Cronjob ran!0, 254, null);
+[2017-04-21 18:30:00] SQL 1 gucci0, 254, null);
+[2017-04-21 18:30:00] SQL 2 gucci0, 254, null);
+[2017-04-21 18:30:00] SQL 3 gucci0, 254, null);
+[2017-04-21 18:30:00] SQL 4 gucci0, 254, null);
+[2017-04-21 18:30:00] SQL 5 gucci0, 76, null);
+[2017-04-21 18:30:00] SQL 6 gucci0, 76, null);
+[2017-04-21 18:30:00] SQL 7 gucci
+[2017-04-21 18:40:00] Cronjob ran!0, 254, null);
+[2017-04-21 18:40:00] SQL 1 gucci0, 254, null);
+[2017-04-21 18:40:00] SQL 2 gucci0, 254, null);
+[2017-04-21 18:40:00] SQL 3 gucci0, 254, null);
+[2017-04-21 18:40:00] SQL 4 gucci0, 254, null);
+[2017-04-21 18:40:00] SQL 5 gucci0, 76, null);
+[2017-04-21 18:40:00] SQL 6 gucci0, 76, null);
+[2017-04-21 18:40:00] SQL 7 gucci
+[2017-04-21 18:50:00] Cronjob ran!0, 254, null);
+[2017-04-21 18:50:00] SQL 1 gucci0, 254, null);
+[2017-04-21 18:50:00] SQL 2 gucci0, 254, null);
+[2017-04-21 18:50:00] SQL 3 gucci0, 254, null);
+[2017-04-21 18:50:00] SQL 4 gucci0, 254, null);
+[2017-04-21 18:50:00] SQL 5 gucci0, 76, null);
+[2017-04-21 18:50:00] SQL 6 gucci0, 76, null);
+[2017-04-21 18:50:00] SQL 7 gucci
+[2017-04-21 19:00:01] Cronjob ran!0, 254, null);
+[2017-04-21 19:00:01] SQL 1 gucci0, 254, null);
+[2017-04-21 19:00:01] SQL 2 gucci0, 254, null);
+[2017-04-21 19:00:01] SQL 3 gucci0, 254, null);
+[2017-04-21 19:00:01] SQL 4 gucci0, 254, null);
+[2017-04-21 19:00:01] SQL 5 gucci0, 76, null);
+[2017-04-21 19:00:01] SQL 6 gucci0, 76, null);
+[2017-04-21 19:00:01] SQL 7 gucci
+[2017-04-21 19:10:00] Cronjob ran!0, 254, null);
+[2017-04-21 19:10:00] SQL 1 gucci0, 254, null);
+[2017-04-21 19:10:00] SQL 2 gucci0, 254, null);
+[2017-04-21 19:10:00] SQL 3 gucci0, 254, null);
+[2017-04-21 19:10:00] SQL 4 gucci0, 254, null);
+[2017-04-21 19:10:00] SQL 5 gucci0, 76, null);
+[2017-04-21 19:10:00] SQL 6 gucci0, 76, null);
+[2017-04-21 19:10:00] SQL 7 gucci
+[2017-04-21 19:20:00] Cronjob ran!0, 254, null);
+[2017-04-21 19:20:00] SQL 1 gucci0, 254, null);
+[2017-04-21 19:20:00] SQL 2 gucci0, 254, null);
+[2017-04-21 19:20:00] SQL 3 gucci0, 254, null);
+[2017-04-21 19:20:00] SQL 4 gucci0, 254, null);
+[2017-04-21 19:20:00] SQL 5 gucci0, 76, null);
+[2017-04-21 19:20:00] SQL 6 gucci0, 76, null);
+[2017-04-21 19:20:00] SQL 7 gucci
+[2017-04-21 19:30:00] Cronjob ran!0, 204, null);
+[2017-04-21 19:30:00] SQL 1 gucci0, 204, null);
+[2017-04-21 19:30:00] SQL 2 gucci0, 204, null);
+[2017-04-21 19:30:00] SQL 3 gucci0, 204, null);
+[2017-04-21 19:30:00] SQL 4 gucci0, 204, null);
+[2017-04-21 19:30:00] SQL 5 gucci0, 204, null);
+[2017-04-21 19:30:00] SQL 6 gucci0, 204, null);
+[2017-04-21 19:30:00] SQL 7 gucci
+[2017-04-21 19:40:00] Cronjob ran!0, 204, null);
+[2017-04-21 19:40:00] SQL 1 gucci0, 204, null);
+[2017-04-21 19:40:00] SQL 2 gucci0, 204, null);
+[2017-04-21 19:40:00] SQL 3 gucci0, 204, null);
+[2017-04-21 19:40:00] SQL 4 gucci0, 204, null);
+[2017-04-21 19:40:00] SQL 5 gucci0, 204, null);
+[2017-04-21 19:40:00] SQL 6 gucci0, 204, null);
+[2017-04-21 19:40:00] SQL 7 gucci
+[2017-04-21 19:50:00] Cronjob ran!0, 204, null);
+[2017-04-21 19:50:00] SQL 1 gucci0, 204, null);
+[2017-04-21 19:50:00] SQL 2 gucci0, 204, null);
+[2017-04-21 19:50:00] SQL 3 gucci0, 204, null);
+[2017-04-21 19:50:00] SQL 4 gucci0, 204, null);
+[2017-04-21 19:50:00] SQL 5 gucci0, 204, null);
+[2017-04-21 19:50:00] SQL 6 gucci0, 204, null);
+[2017-04-21 19:50:00] SQL 7 gucci
+[2017-04-21 20:00:01] Cronjob ran!0, 204, null);
+[2017-04-21 20:00:01] SQL 1 gucci0, 204, null);
+[2017-04-21 20:00:01] SQL 2 gucci0, 204, null);
+[2017-04-21 20:00:01] SQL 3 gucci0, 204, null);
+[2017-04-21 20:00:01] SQL 4 gucci0, 204, null);
+[2017-04-21 20:00:01] SQL 5 gucci0, 204, null);
+[2017-04-21 20:00:01] SQL 6 gucci0, 204, null);
+[2017-04-21 20:00:01] SQL 7 gucci
+[2017-04-21 20:10:00] Cronjob ran!0, 204, null);
+[2017-04-21 20:10:01] SQL 1 gucci0, 204, null);
+[2017-04-21 20:10:01] SQL 2 gucci0, 204, null);
+[2017-04-21 20:10:01] SQL 3 gucci0, 204, null);
+[2017-04-21 20:10:01] SQL 4 gucci0, 204, null);
+[2017-04-21 20:10:01] SQL 5 gucci0, 204, null);
+[2017-04-21 20:10:01] SQL 6 gucci0, 204, null);
+[2017-04-21 20:10:01] SQL 7 gucci
+[2017-04-21 20:30:00] Cronjob ran!0, 204, null);
+[2017-04-21 20:30:00] SQL 1 gucci0, 204, null);
+[2017-04-21 20:30:00] SQL 2 gucci0, 204, null);
+[2017-04-21 20:30:00] SQL 3 gucci0, 204, null);
+[2017-04-21 20:30:00] SQL 4 gucci0, 204, null);
+[2017-04-21 20:30:00] SQL 5 gucci0, 204, null);
+[2017-04-21 20:30:00] SQL 6 gucci0, 204, null);
+[2017-04-21 20:30:00] SQL 7 gucci
+[2017-04-22 12:50:00] Cronjob ran!0, 0, null);
+[2017-04-22 12:50:00] SQL 1 gucci0, 0, null);
+[2017-04-22 12:50:00] SQL 2 gucci0, 0, null);
+[2017-04-22 12:50:00] SQL 3 gucci0, 0, null);
+[2017-04-22 12:50:00] SQL 4 gucci0, 0, null);
+[2017-04-22 12:50:00] SQL 5 gucci0, 204, null);
+[2017-04-22 12:50:00] SQL 6 gucci0, 204, null);
+[2017-04-22 12:50:00] SQL 7 gucci
+[2017-04-22 13:00:00] Cronjob ran!0, 0, null);
+[2017-04-22 13:00:00] SQL 1 gucci0, 0, null);
+[2017-04-22 13:00:00] SQL 2 gucci0, 0, null);
+[2017-04-22 13:00:00] SQL 3 gucci0, 0, null);
+[2017-04-22 13:00:00] SQL 4 gucci0, 0, null);
+[2017-04-22 13:00:00] SQL 5 gucci0, 204, null);
+[2017-04-22 13:00:00] SQL 6 gucci0, 204, null);
+[2017-04-22 13:00:00] SQL 7 gucci
+[2017-04-22 13:10:01] Cronjob ran!0, 0, null);
+[2017-04-22 13:10:01] SQL 1 gucci0, 0, null);
+[2017-04-22 13:10:01] SQL 2 gucci0, 0, null);
+[2017-04-22 13:10:01] SQL 3 gucci0, 0, null);
+[2017-04-22 13:10:01] SQL 4 gucci0, 0, null);
+[2017-04-22 13:10:01] SQL 5 gucci0, 204, null);
+[2017-04-22 13:10:01] SQL 6 gucci0, 204, null);
+[2017-04-22 13:10:01] SQL 7 gucci
+[2017-04-22 13:20:00] Cronjob ran!0, 0, null);
+[2017-04-22 13:20:00] SQL 1 gucci0, 0, null);
+[2017-04-22 13:20:00] SQL 2 gucci0, 0, null);
+[2017-04-22 13:20:00] SQL 3 gucci0, 0, null);
+[2017-04-22 13:20:00] SQL 4 gucci0, 0, null);
+[2017-04-22 13:20:00] SQL 5 gucci0, 204, null);
+[2017-04-22 13:20:00] SQL 6 gucci0, 204, null);
+[2017-04-22 13:20:00] SQL 7 gucci
+[2017-04-22 13:30:00] Cronjob ran!0, 0, null);
+[2017-04-22 13:30:00] SQL 1 gucci0, 0, null);
+[2017-04-22 13:30:00] SQL 2 gucci0, 0, null);
+[2017-04-22 13:30:00] SQL 3 gucci0, 0, null);
+[2017-04-22 13:30:00] SQL 4 gucci0, 0, null);
+[2017-04-22 13:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 13:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 13:30:00] SQL 7 gucci
+[2017-04-22 13:40:00] Cronjob ran!0, 204, null);
+[2017-04-22 13:40:00] SQL 1 gucci0, 204, null);
+[2017-04-22 13:40:00] SQL 2 gucci0, 204, null);
+[2017-04-22 13:40:00] SQL 3 gucci0, 204, null);
+[2017-04-22 13:40:00] SQL 4 gucci0, 204, null);
+[2017-04-22 13:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 13:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 13:40:00] SQL 7 gucci
+[2017-04-22 13:50:00] Cronjob ran!0, 204, null);
+[2017-04-22 13:50:00] SQL 1 gucci0, 204, null);
+[2017-04-22 13:50:00] SQL 2 gucci0, 204, null);
+[2017-04-22 13:50:00] SQL 3 gucci0, 204, null);
+[2017-04-22 13:50:00] SQL 4 gucci0, 204, null);
+[2017-04-22 13:50:00] SQL 5 gucci0, 204, null);
+[2017-04-22 13:50:00] SQL 6 gucci0, 204, null);
+[2017-04-22 13:50:00] SQL 7 gucci
+[2017-04-22 14:00:00] Cronjob ran!0, 204, null);
+[2017-04-22 14:00:01] SQL 1 gucci0, 204, null);
+[2017-04-22 14:00:01] SQL 2 gucci0, 204, null);
+[2017-04-22 14:00:01] SQL 3 gucci0, 204, null);
+[2017-04-22 14:00:01] SQL 4 gucci0, 204, null);
+[2017-04-22 14:00:01] SQL 5 gucci0, 204, null);
+[2017-04-22 14:00:01] SQL 6 gucci0, 204, null);
+[2017-04-22 14:00:01] SQL 7 gucci
+[2017-04-22 14:10:00] Cronjob ran!0, 204, null);
+[2017-04-22 14:10:00] SQL 1 gucci0, 204, null);
+[2017-04-22 14:10:00] SQL 2 gucci0, 204, null);
+[2017-04-22 14:10:00] SQL 3 gucci0, 204, null);
+[2017-04-22 14:10:00] SQL 4 gucci0, 204, null);
+[2017-04-22 14:10:00] SQL 5 gucci0, 204, null);
+[2017-04-22 14:10:00] SQL 6 gucci0, 204, null);
+[2017-04-22 14:10:00] SQL 7 gucci
+[2017-04-22 14:20:00] Cronjob ran!0, 204, null);
+[2017-04-22 14:20:00] SQL 1 gucci0, 204, null);
+[2017-04-22 14:20:00] SQL 2 gucci0, 204, null);
+[2017-04-22 14:20:00] SQL 3 gucci0, 204, null);
+[2017-04-22 14:20:00] SQL 4 gucci0, 204, null);
+[2017-04-22 14:20:00] SQL 5 gucci0, 204, null);
+[2017-04-22 14:20:00] SQL 6 gucci0, 204, null);
+[2017-04-22 14:20:00] SQL 7 gucci
+[2017-04-22 14:30:00] Cronjob ran!0, 0, null);
+[2017-04-22 14:30:00] SQL 1 gucci0, 0, null);
+[2017-04-22 14:30:00] SQL 2 gucci0, 0, null);
+[2017-04-22 14:30:00] SQL 3 gucci0, 0, null);
+[2017-04-22 14:30:00] SQL 4 gucci0, 0, null);
+[2017-04-22 14:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 14:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 14:30:00] SQL 7 gucci
+[2017-04-22 14:40:01] Cronjob ran!0, 0, null);
+[2017-04-22 14:40:01] SQL 1 gucci0, 0, null);
+[2017-04-22 14:40:01] SQL 2 gucci0, 0, null);
+[2017-04-22 14:40:01] SQL 3 gucci0, 0, null);
+[2017-04-22 14:40:01] SQL 4 gucci0, 0, null);
+[2017-04-22 14:40:01] SQL 5 gucci0, 204, null);
+[2017-04-22 14:40:01] SQL 6 gucci0, 204, null);
+[2017-04-22 14:40:01] SQL 7 gucci
+[2017-04-22 14:50:02] Cronjob ran!0, 0, null);
+[2017-04-22 14:50:02] SQL 1 gucci0, 0, null);
+[2017-04-22 14:50:02] SQL 2 gucci0, 0, null);
+[2017-04-22 14:50:02] SQL 3 gucci0, 0, null);
+[2017-04-22 14:50:02] SQL 4 gucci0, 0, null);
+[2017-04-22 14:50:02] SQL 5 gucci0, 204, null);
+[2017-04-22 14:50:02] SQL 6 gucci0, 204, null);
+[2017-04-22 14:50:02] SQL 7 gucci
+[2017-04-22 15:00:01] Cronjob ran!0, 0, null);
+[2017-04-22 15:00:01] SQL 1 gucci0, 0, null);
+[2017-04-22 15:00:01] SQL 2 gucci0, 0, null);
+[2017-04-22 15:00:01] SQL 3 gucci0, 0, null);
+[2017-04-22 15:00:01] SQL 4 gucci0, 0, null);
+[2017-04-22 15:00:01] SQL 5 gucci0, 204, null);
+[2017-04-22 15:00:01] SQL 6 gucci0, 204, null);
+[2017-04-22 15:00:01] SQL 7 gucci
+[2017-04-22 15:10:00] Cronjob ran!0, 0, null);
+[2017-04-22 15:10:00] SQL 1 gucci0, 0, null);
+[2017-04-22 15:10:00] SQL 2 gucci0, 0, null);
+[2017-04-22 15:10:00] SQL 3 gucci0, 0, null);
+[2017-04-22 15:10:00] SQL 4 gucci0, 0, null);
+[2017-04-22 15:10:00] SQL 5 gucci0, 204, null);
+[2017-04-22 15:10:00] SQL 6 gucci0, 204, null);
+[2017-04-22 15:10:00] SQL 7 gucci
+[2017-04-22 15:20:00] Cronjob ran!0, 0, null);
+[2017-04-22 15:20:00] SQL 1 gucci0, 0, null);
+[2017-04-22 15:20:00] SQL 2 gucci0, 0, null);
+[2017-04-22 15:20:00] SQL 3 gucci0, 0, null);
+[2017-04-22 15:20:00] SQL 4 gucci0, 0, null);
+[2017-04-22 15:20:00] SQL 5 gucci0, 204, null);
+[2017-04-22 15:20:00] SQL 6 gucci0, 204, null);
+[2017-04-22 15:20:00] SQL 7 gucci
+[2017-04-22 15:30:00] Cronjob ran!0, 0, null);
+[2017-04-22 15:30:00] SQL 1 gucci0, 0, null);
+[2017-04-22 15:30:00] SQL 2 gucci0, 0, null);
+[2017-04-22 15:30:00] SQL 3 gucci0, 0, null);
+[2017-04-22 15:30:00] SQL 4 gucci0, 0, null);
+[2017-04-22 15:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 15:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 15:30:00] SQL 7 gucci
+[2017-04-22 15:40:00] Cronjob ran!0, 0, null);
+[2017-04-22 15:40:00] SQL 1 gucci0, 0, null);
+[2017-04-22 15:40:00] SQL 2 gucci0, 0, null);
+[2017-04-22 15:40:00] SQL 3 gucci0, 0, null);
+[2017-04-22 15:40:00] SQL 4 gucci0, 0, null);
+[2017-04-22 15:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 15:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 15:40:00] SQL 7 gucci
+[2017-04-22 15:50:00] Cronjob ran!0, 0, null);
+[2017-04-22 15:50:00] SQL 1 gucci0, 0, null);
+[2017-04-22 15:50:00] SQL 2 gucci0, 0, null);
+[2017-04-22 15:50:00] SQL 3 gucci0, 0, null);
+[2017-04-22 15:50:00] SQL 4 gucci0, 0, null);
+[2017-04-22 15:50:00] SQL 5 gucci0, 204, null);
+[2017-04-22 15:50:00] SQL 6 gucci0, 204, null);
+[2017-04-22 15:50:00] SQL 7 gucci
+[2017-04-22 16:00:00] Cronjob ran!0, 0, null);
+[2017-04-22 16:00:00] SQL 1 gucci0, 0, null);
+[2017-04-22 16:00:00] SQL 2 gucci0, 0, null);
+[2017-04-22 16:00:00] SQL 3 gucci0, 0, null);
+[2017-04-22 16:00:00] SQL 4 gucci0, 0, null);
+[2017-04-22 16:00:00] SQL 5 gucci0, 204, null);
+[2017-04-22 16:00:00] SQL 6 gucci0, 204, null);
+[2017-04-22 16:00:00] SQL 7 gucci
+[2017-04-22 16:10:00] Cronjob ran!0, 0, null);
+[2017-04-22 16:10:00] SQL 1 gucci0, 0, null);
+[2017-04-22 16:10:00] SQL 2 gucci0, 0, null);
+[2017-04-22 16:10:00] SQL 3 gucci0, 0, null);
+[2017-04-22 16:10:00] SQL 4 gucci0, 0, null);
+[2017-04-22 16:10:00] SQL 5 gucci0, 204, null);
+[2017-04-22 16:10:00] SQL 6 gucci0, 204, null);
+[2017-04-22 16:10:00] SQL 7 gucci
+[2017-04-22 16:20:00] Cronjob ran!0, 0, null);
+[2017-04-22 16:20:00] SQL 1 gucci0, 0, null);
+[2017-04-22 16:20:00] SQL 2 gucci0, 0, null);
+[2017-04-22 16:20:00] SQL 3 gucci0, 0, null);
+[2017-04-22 16:20:00] SQL 4 gucci0, 0, null);
+[2017-04-22 16:20:00] SQL 5 gucci0, 204, null);
+[2017-04-22 16:20:00] SQL 6 gucci0, 204, null);
+[2017-04-22 16:20:00] SQL 7 gucci
+[2017-04-22 16:30:00] Cronjob ran!0, 0, null);
+[2017-04-22 16:30:00] SQL 1 gucci0, 0, null);
+[2017-04-22 16:30:00] SQL 2 gucci0, 0, null);
+[2017-04-22 16:30:00] SQL 3 gucci0, 0, null);
+[2017-04-22 16:30:00] SQL 4 gucci0, 0, null);
+[2017-04-22 16:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 16:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 16:30:00] SQL 7 gucci
+[2017-04-22 16:40:00] Cronjob ran!0, 0, null);
+[2017-04-22 16:40:00] SQL 1 gucci0, 0, null);
+[2017-04-22 16:40:00] SQL 2 gucci0, 0, null);
+[2017-04-22 16:40:00] SQL 3 gucci0, 0, null);
+[2017-04-22 16:40:00] SQL 4 gucci0, 0, null);
+[2017-04-22 16:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 16:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 16:40:00] SQL 7 gucci
+[2017-04-22 16:50:00] Cronjob ran!0, 0, null);
+[2017-04-22 16:50:00] SQL 1 gucci0, 0, null);
+[2017-04-22 16:50:00] SQL 2 gucci0, 0, null);
+[2017-04-22 16:50:00] SQL 3 gucci0, 0, null);
+[2017-04-22 16:50:00] SQL 4 gucci0, 0, null);
+[2017-04-22 16:50:00] SQL 5 gucci0, 204, null);
+[2017-04-22 16:50:00] SQL 6 gucci0, 204, null);
+[2017-04-22 16:50:00] SQL 7 gucci
+[2017-04-22 17:00:00] Cronjob ran!0, 0, null);
+[2017-04-22 17:00:00] SQL 1 gucci0, 0, null);
+[2017-04-22 17:00:00] SQL 2 gucci0, 0, null);
+[2017-04-22 17:00:00] SQL 3 gucci0, 0, null);
+[2017-04-22 17:00:00] SQL 4 gucci0, 0, null);
+[2017-04-22 17:00:00] SQL 5 gucci0, 204, null);
+[2017-04-22 17:00:00] SQL 6 gucci0, 204, null);
+[2017-04-22 17:00:00] SQL 7 gucci
+[2017-04-22 17:10:00] Cronjob ran!0, 0, null);
+[2017-04-22 17:10:00] SQL 1 gucci0, 0, null);
+[2017-04-22 17:10:00] SQL 2 gucci0, 0, null);
+[2017-04-22 17:10:00] SQL 3 gucci0, 0, null);
+[2017-04-22 17:10:00] SQL 4 gucci0, 0, null);
+[2017-04-22 17:10:00] SQL 5 gucci0, 204, null);
+[2017-04-22 17:10:00] SQL 6 gucci0, 204, null);
+[2017-04-22 17:10:00] SQL 7 gucci
+[2017-04-22 17:20:01] Cronjob ran!0, 0, null);
+[2017-04-22 17:20:01] SQL 1 gucci0, 0, null);
+[2017-04-22 17:20:01] SQL 2 gucci0, 0, null);
+[2017-04-22 17:20:01] SQL 3 gucci0, 0, null);
+[2017-04-22 17:20:01] SQL 4 gucci0, 0, null);
+[2017-04-22 17:20:01] SQL 5 gucci0, 204, null);
+[2017-04-22 17:20:01] SQL 6 gucci0, 204, null);
+[2017-04-22 17:20:01] SQL 7 gucci
+[2017-04-22 17:30:00] Cronjob ran!0, 0, null);
+[2017-04-22 17:30:00] SQL 1 gucci0, 0, null);
+[2017-04-22 17:30:00] SQL 2 gucci0, 0, null);
+[2017-04-22 17:30:00] SQL 3 gucci0, 0, null);
+[2017-04-22 17:30:00] SQL 4 gucci0, 0, null);
+[2017-04-22 17:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 17:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 17:30:00] SQL 7 gucci
+[2017-04-22 17:40:00] Cronjob ran!0, 0, null);
+[2017-04-22 17:40:00] SQL 1 gucci0, 0, null);
+[2017-04-22 17:40:00] SQL 2 gucci0, 0, null);
+[2017-04-22 17:40:00] SQL 3 gucci0, 254, null);
+[2017-04-22 17:40:00] SQL 4 gucci0, 0, null);
+[2017-04-22 17:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 17:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 17:40:00] SQL 7 gucci
+[2017-04-22 17:50:01] Cronjob ran!0, 0, null);
+[2017-04-22 17:50:01] SQL 1 gucci0, 0, null);
+[2017-04-22 17:50:01] SQL 2 gucci0, 0, null);
+[2017-04-22 17:50:01] SQL 3 gucci0, 254, null);
+[2017-04-22 17:50:01] SQL 4 gucci0, 0, null);
+[2017-04-22 17:50:01] SQL 5 gucci0, 204, null);
+[2017-04-22 17:50:01] SQL 6 gucci0, 204, null);
+[2017-04-22 17:50:01] SQL 7 gucci
+[2017-04-22 18:00:01] Cronjob ran!0, 0, null);
+[2017-04-22 18:00:01] SQL 1 gucci0, 0, null);
+[2017-04-22 18:00:01] SQL 2 gucci0, 0, null);
+[2017-04-22 18:00:01] SQL 3 gucci0, 0, null);
+[2017-04-22 18:00:01] SQL 4 gucci0, 0, null);
+[2017-04-22 18:00:01] SQL 5 gucci0, 0, null);
+[2017-04-22 18:00:01] SQL 6 gucci0, 0, null);
+[2017-04-22 18:00:01] SQL 7 gucci
+[2017-04-22 18:10:01] Cronjob ran!0, 204, null);
+[2017-04-22 18:10:01] SQL 1 gucci0, 204, null);
+[2017-04-22 18:10:01] SQL 2 gucci0, 204, null);
+[2017-04-22 18:10:01] SQL 3 gucci0, 204, null);
+[2017-04-22 18:10:01] SQL 4 gucci0, 204, null);
+[2017-04-22 18:10:01] SQL 5 gucci0, 204, null);
+[2017-04-22 18:10:01] SQL 6 gucci0, 204, null);
+[2017-04-22 18:10:01] SQL 7 gucci
+[2017-04-22 18:20:00] Cronjob ran!0, 0, null);
+[2017-04-22 18:20:00] SQL 1 gucci0, 0, null);
+[2017-04-22 18:20:00] SQL 2 gucci0, 0, null);
+[2017-04-22 18:20:00] SQL 3 gucci0, 0, null);
+[2017-04-22 18:20:00] SQL 4 gucci0, 0, null);
+[2017-04-22 18:20:00] SQL 5 gucci0, 0, null);
+[2017-04-22 18:20:00] SQL 6 gucci0, 0, null);
+[2017-04-22 18:20:00] SQL 7 gucci
+[2017-04-22 18:30:00] Cronjob ran!0, 0, null);
+[2017-04-22 18:30:01] SQL 1 gucci0, 0, null);
+[2017-04-22 18:30:01] SQL 2 gucci0, 0, null);
+[2017-04-22 18:30:01] SQL 3 gucci0, 0, null);
+[2017-04-22 18:30:01] SQL 4 gucci0, 0, null);
+[2017-04-22 18:30:01] SQL 5 gucci0, 0, null);
+[2017-04-22 18:30:01] SQL 6 gucci0, 0, null);
+[2017-04-22 18:30:01] SQL 7 gucci
+[2017-04-22 18:36:57] Cronjob ran!0, 204, null);
+[2017-04-22 18:36:57] SQL 1 gucci0, 204, null);
+[2017-04-22 18:36:57] SQL 2 gucci0, 204, null);
+[2017-04-22 18:36:57] SQL 3 gucci0, 0, null);
+[2017-04-22 18:36:57] SQL 4 gucci0, 204, null);
+[2017-04-22 18:36:57] SQL 5 gucci0, 0, null);
+[2017-04-22 18:36:57] SQL 6 gucci0, 0, null);
+[2017-04-22 18:36:57] SQL 7 gucci
+[2017-04-22 18:39:13] Cronjob ran!0, 204, null);
+[2017-04-22 18:39:13] SQL 1 gucci0, 204, null);
+[2017-04-22 18:39:13] SQL 2 gucci0, 204, null);
+[2017-04-22 18:39:13] SQL 3 gucci0, 0, null);
+[2017-04-22 18:39:13] SQL 4 gucci0, 204, null);
+[2017-04-22 18:39:13] SQL 5 gucci0, 0, null);
+[2017-04-22 18:39:13] SQL 6 gucci0, 0, null);
+[2017-04-22 18:39:13] SQL 7 gucci
+[2017-04-22 18:40:00] Cronjob ran!0, 204, null);
+[2017-04-22 18:40:00] SQL 1 gucci0, 204, null);
+[2017-04-22 18:40:00] SQL 2 gucci0, 204, null);
+[2017-04-22 18:40:00] SQL 3 gucci0, 0, null);
+[2017-04-22 18:40:00] SQL 4 gucci0, 204, null);
+[2017-04-22 18:40:00] SQL 5 gucci0, 0, null);
+[2017-04-22 18:40:00] SQL 6 gucci0, 0, null);
+[2017-04-22 18:40:00] SQL 7 gucci
+[2017-04-22 18:49:23] Cronjob ran!0, 204, null);
+[2017-04-22 18:49:23] SQL 1 gucci0, 221, null);
+[2017-04-22 18:49:23] SQL 2 gucci0, 202, null);
+[2017-04-22 18:49:23] SQL 3 gucci0, 83, null);
+[2017-04-22 18:49:23] SQL 4 gucci0, 168, null);
+[2017-04-22 18:49:23] SQL 5 gucci0, 204, null);
+[2017-04-22 18:49:23] SQL 6 gucci0, 204, null);
+[2017-04-22 18:49:23] SQL 7 gucci
+[2017-04-22 18:50:00] Cronjob ran!0, 204, null);
+[2017-04-22 18:50:00] SQL 1 gucci0, 204, null);
+[2017-04-22 18:50:00] SQL 2 gucci0, 204, null);
+[2017-04-22 18:50:00] SQL 3 gucci0, 204, null);
+[2017-04-22 18:50:00] SQL 4 gucci0, 204, null);
+[2017-04-22 18:50:00] SQL 5 gucci0, 204, null);
+[2017-04-22 18:50:00] SQL 6 gucci0, 204, null);
+[2017-04-22 18:50:00] SQL 7 gucci
+[2017-04-22 19:00:00] Cronjob ran!0, 204, null);
+[2017-04-22 19:00:00] SQL 1 gucci0, 204, null);
+[2017-04-22 19:00:00] SQL 2 gucci0, 204, null);
+[2017-04-22 19:00:00] SQL 3 gucci0, 204, null);
+[2017-04-22 19:00:00] SQL 4 gucci0, 204, null);
+[2017-04-22 19:00:00] SQL 5 gucci0, 204, null);
+[2017-04-22 19:00:00] SQL 6 gucci0, 204, null);
+[2017-04-22 19:00:00] SQL 7 gucci
+[2017-04-22 19:10:00] Cronjob ran!0, 204, null);
+[2017-04-22 19:10:00] SQL 1 gucci0, 204, null);
+[2017-04-22 19:10:00] SQL 2 gucci0, 204, null);
+[2017-04-22 19:10:00] SQL 3 gucci0, 204, null);
+[2017-04-22 19:10:00] SQL 4 gucci0, 204, null);
+[2017-04-22 19:10:00] SQL 5 gucci0, 204, null);
+[2017-04-22 19:10:00] SQL 6 gucci0, 204, null);
+[2017-04-22 19:10:00] SQL 7 gucci
+[2017-04-22 19:20:01] Cronjob ran!0, 204, null);
+[2017-04-22 19:20:01] SQL 1 gucci0, 204, null);
+[2017-04-22 19:20:01] SQL 2 gucci0, 204, null);
+[2017-04-22 19:20:01] SQL 3 gucci0, 204, null);
+[2017-04-22 19:20:01] SQL 4 gucci0, 204, null);
+[2017-04-22 19:20:01] SQL 5 gucci0, 204, null);
+[2017-04-22 19:20:01] SQL 6 gucci0, 204, null);
+[2017-04-22 19:20:01] SQL 7 gucci
+[2017-04-22 19:30:00] Cronjob ran!0, 204, null);
+[2017-04-22 19:30:00] SQL 1 gucci0, 204, null);
+[2017-04-22 19:30:00] SQL 2 gucci0, 204, null);
+[2017-04-22 19:30:00] SQL 3 gucci0, 204, null);
+[2017-04-22 19:30:00] SQL 4 gucci0, 204, null);
+[2017-04-22 19:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 19:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 19:30:00] SQL 7 gucci
+[2017-04-22 19:40:00] Cronjob ran!0, 204, null);
+[2017-04-22 19:40:00] SQL 1 gucci0, 204, null);
+[2017-04-22 19:40:00] SQL 2 gucci0, 204, null);
+[2017-04-22 19:40:00] SQL 3 gucci0, 204, null);
+[2017-04-22 19:40:00] SQL 4 gucci0, 204, null);
+[2017-04-22 19:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 19:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 19:40:00] SQL 7 gucci
+[2017-04-22 19:50:00] Cronjob ran!0, 204, null);
+[2017-04-22 19:50:01] SQL 1 gucci0, 204, null);
+[2017-04-22 19:50:01] SQL 2 gucci0, 204, null);
+[2017-04-22 19:50:01] SQL 3 gucci0, 204, null);
+[2017-04-22 19:50:01] SQL 4 gucci0, 204, null);
+[2017-04-22 19:50:01] SQL 5 gucci0, 204, null);
+[2017-04-22 19:50:01] SQL 6 gucci0, 204, null);
+[2017-04-22 19:50:01] SQL 7 gucci
+[2017-04-22 20:00:00] Cronjob ran!0, 204, null);
+[2017-04-22 20:00:00] SQL 1 gucci0, 204, null);
+[2017-04-22 20:00:00] SQL 2 gucci0, 204, null);
+[2017-04-22 20:00:00] SQL 3 gucci0, 204, null);
+[2017-04-22 20:00:00] SQL 4 gucci0, 204, null);
+[2017-04-22 20:00:00] SQL 5 gucci0, 204, null);
+[2017-04-22 20:00:00] SQL 6 gucci0, 204, null);
+[2017-04-22 20:00:00] SQL 7 gucci
+[2017-04-22 20:10:01] Cronjob ran!0, 204, null);
+[2017-04-22 20:10:01] SQL 1 gucci0, 204, null);
+[2017-04-22 20:10:01] SQL 2 gucci0, 204, null);
+[2017-04-22 20:10:01] SQL 3 gucci0, 204, null);
+[2017-04-22 20:10:01] SQL 4 gucci0, 204, null);
+[2017-04-22 20:10:01] SQL 5 gucci0, 204, null);
+[2017-04-22 20:10:01] SQL 6 gucci0, 204, null);
+[2017-04-22 20:10:01] SQL 7 gucci
+[2017-04-22 20:20:01] Cronjob ran!0, 204, null);
+[2017-04-22 20:20:01] SQL 1 gucci0, 204, null);
+[2017-04-22 20:20:01] SQL 2 gucci0, 204, null);
+[2017-04-22 20:20:01] SQL 3 gucci0, 204, null);
+[2017-04-22 20:20:01] SQL 4 gucci0, 204, null);
+[2017-04-22 20:20:01] SQL 5 gucci0, 204, null);
+[2017-04-22 20:20:01] SQL 6 gucci0, 204, null);
+[2017-04-22 20:20:01] SQL 7 gucci
+[2017-04-22 20:30:00] Cronjob ran!0, 204, null);
+[2017-04-22 20:30:00] SQL 1 gucci0, 204, null);
+[2017-04-22 20:30:00] SQL 2 gucci0, 204, null);
+[2017-04-22 20:30:00] SQL 3 gucci0, 204, null);
+[2017-04-22 20:30:00] SQL 4 gucci0, 204, null);
+[2017-04-22 20:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 20:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 20:30:00] SQL 7 gucci
+[2017-04-22 20:40:00] Cronjob ran!0, 204, null);
+[2017-04-22 20:40:00] SQL 1 gucci0, 204, null);
+[2017-04-22 20:40:00] SQL 2 gucci0, 204, null);
+[2017-04-22 20:40:00] SQL 3 gucci0, 204, null);
+[2017-04-22 20:40:00] SQL 4 gucci0, 204, null);
+[2017-04-22 20:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 20:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 20:40:00] SQL 7 gucci
+[2017-04-22 20:50:01] Cronjob ran!0, 204, null);
+[2017-04-22 20:50:01] SQL 1 gucci0, 204, null);
+[2017-04-22 20:50:01] SQL 2 gucci0, 204, null);
+[2017-04-22 20:50:01] SQL 3 gucci0, 204, null);
+[2017-04-22 20:50:01] SQL 4 gucci0, 204, null);
+[2017-04-22 20:50:01] SQL 5 gucci0, 204, null);
+[2017-04-22 20:50:01] SQL 6 gucci0, 204, null);
+[2017-04-22 20:50:01] SQL 7 gucci
+[2017-04-22 21:00:00] Cronjob ran!0, 204, null);
+[2017-04-22 21:00:00] SQL 1 gucci0, 204, null);
+[2017-04-22 21:00:00] SQL 2 gucci0, 204, null);
+[2017-04-22 21:00:00] SQL 3 gucci0, 204, null);
+[2017-04-22 21:00:00] SQL 4 gucci0, 204, null);
+[2017-04-22 21:00:00] SQL 5 gucci0, 204, null);
+[2017-04-22 21:00:00] SQL 6 gucci0, 204, null);
+[2017-04-22 21:00:00] SQL 7 gucci
+[2017-04-22 21:10:01] Cronjob ran!0, 204, null);
+[2017-04-22 21:10:01] SQL 1 gucci0, 204, null);
+[2017-04-22 21:10:01] SQL 2 gucci0, 204, null);
+[2017-04-22 21:10:01] SQL 3 gucci0, 204, null);
+[2017-04-22 21:10:01] SQL 4 gucci0, 204, null);
+[2017-04-22 21:10:01] SQL 5 gucci0, 204, null);
+[2017-04-22 21:10:01] SQL 6 gucci0, 204, null);
+[2017-04-22 21:10:01] SQL 7 gucci
+[2017-04-22 21:20:00] Cronjob ran!0, 204, null);
+[2017-04-22 21:20:00] SQL 1 gucci0, 204, null);
+[2017-04-22 21:20:00] SQL 2 gucci0, 204, null);
+[2017-04-22 21:20:00] SQL 3 gucci0, 204, null);
+[2017-04-22 21:20:00] SQL 4 gucci0, 204, null);
+[2017-04-22 21:20:00] SQL 5 gucci0, 204, null);
+[2017-04-22 21:20:00] SQL 6 gucci0, 204, null);
+[2017-04-22 21:20:00] SQL 7 gucci
+[2017-04-22 21:30:00] Cronjob ran!0, 204, null);
+[2017-04-22 21:30:00] SQL 1 gucci0, 204, null);
+[2017-04-22 21:30:00] SQL 2 gucci0, 204, null);
+[2017-04-22 21:30:00] SQL 3 gucci0, 204, null);
+[2017-04-22 21:30:00] SQL 4 gucci0, 204, null);
+[2017-04-22 21:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 21:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 21:30:00] SQL 7 gucci
+[2017-04-22 21:40:00] Cronjob ran!0, 204, null);
+[2017-04-22 21:40:00] SQL 1 gucci0, 204, null);
+[2017-04-22 21:40:00] SQL 2 gucci0, 204, null);
+[2017-04-22 21:40:00] SQL 3 gucci0, 204, null);
+[2017-04-22 21:40:00] SQL 4 gucci0, 204, null);
+[2017-04-22 21:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 21:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 21:40:00] SQL 7 gucci
+[2017-04-22 21:50:00] Cronjob ran!0, 204, null);
+[2017-04-22 21:50:00] SQL 1 gucci0, 204, null);
+[2017-04-22 21:50:00] SQL 2 gucci0, 204, null);
+[2017-04-22 21:50:00] SQL 3 gucci0, 204, null);
+[2017-04-22 21:50:01] SQL 4 gucci0, 204, null);
+[2017-04-22 21:50:01] SQL 5 gucci0, 204, null);
+[2017-04-22 21:50:01] SQL 6 gucci0, 204, null);
+[2017-04-22 21:50:01] SQL 7 gucci
+[2017-04-22 22:00:00] Cronjob ran!0, 204, null);
+[2017-04-22 22:00:01] SQL 1 gucci0, 204, null);
+[2017-04-22 22:00:01] SQL 2 gucci0, 204, null);
+[2017-04-22 22:00:01] SQL 3 gucci0, 204, null);
+[2017-04-22 22:00:01] SQL 4 gucci0, 204, null);
+[2017-04-22 22:00:01] SQL 5 gucci0, 204, null);
+[2017-04-22 22:00:01] SQL 6 gucci0, 204, null);
+[2017-04-22 22:00:01] SQL 7 gucci
+[2017-04-22 22:10:00] Cronjob ran!0, 204, null);
+[2017-04-22 22:10:00] SQL 1 gucci0, 204, null);
+[2017-04-22 22:10:00] SQL 2 gucci0, 204, null);
+[2017-04-22 22:10:00] SQL 3 gucci0, 204, null);
+[2017-04-22 22:10:00] SQL 4 gucci0, 204, null);
+[2017-04-22 22:10:00] SQL 5 gucci0, 204, null);
+[2017-04-22 22:10:00] SQL 6 gucci0, 204, null);
+[2017-04-22 22:10:00] SQL 7 gucci
+[2017-04-22 22:20:01] Cronjob ran!0, 204, null);
+[2017-04-22 22:20:01] SQL 1 gucci0, 204, null);
+[2017-04-22 22:20:01] SQL 2 gucci0, 204, null);
+[2017-04-22 22:20:01] SQL 3 gucci0, 204, null);
+[2017-04-22 22:20:01] SQL 4 gucci0, 204, null);
+[2017-04-22 22:20:01] SQL 5 gucci0, 204, null);
+[2017-04-22 22:20:01] SQL 6 gucci0, 204, null);
+[2017-04-22 22:20:01] SQL 7 gucci
+[2017-04-22 22:30:01] Cronjob ran!0, 204, null);
+[2017-04-22 22:30:01] SQL 1 gucci0, 204, null);
+[2017-04-22 22:30:01] SQL 2 gucci0, 204, null);
+[2017-04-22 22:30:01] SQL 3 gucci0, 204, null);
+[2017-04-22 22:30:01] SQL 4 gucci0, 204, null);
+[2017-04-22 22:30:01] SQL 5 gucci0, 204, null);
+[2017-04-22 22:30:01] SQL 6 gucci0, 204, null);
+[2017-04-22 22:30:01] SQL 7 gucci
+[2017-04-22 22:40:00] Cronjob ran!0, 204, null);
+[2017-04-22 22:40:00] SQL 1 gucci0, 204, null);
+[2017-04-22 22:40:00] SQL 2 gucci0, 204, null);
+[2017-04-22 22:40:00] SQL 3 gucci0, 204, null);
+[2017-04-22 22:40:00] SQL 4 gucci0, 204, null);
+[2017-04-22 22:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 22:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 22:40:00] SQL 7 gucci
+[2017-04-22 22:50:00] Cronjob ran!0, 204, null);
+[2017-04-22 22:50:00] SQL 1 gucci0, 204, null);
+[2017-04-22 22:50:00] SQL 2 gucci0, 204, null);
+[2017-04-22 22:50:00] SQL 3 gucci0, 204, null);
+[2017-04-22 22:50:00] SQL 4 gucci0, 204, null);
+[2017-04-22 22:50:00] SQL 5 gucci0, 204, null);
+[2017-04-22 22:50:00] SQL 6 gucci0, 204, null);
+[2017-04-22 22:50:00] SQL 7 gucci
+[2017-04-22 23:00:00] Cronjob ran!0, 204, null);
+[2017-04-22 23:00:00] SQL 1 gucci0, 204, null);
+[2017-04-22 23:00:00] SQL 2 gucci0, 204, null);
+[2017-04-22 23:00:00] SQL 3 gucci0, 204, null);
+[2017-04-22 23:00:00] SQL 4 gucci0, 204, null);
+[2017-04-22 23:00:00] SQL 5 gucci0, 204, null);
+[2017-04-22 23:00:00] SQL 6 gucci0, 204, null);
+[2017-04-22 23:00:00] SQL 7 gucci
+[2017-04-22 23:10:00] Cronjob ran!0, 204, null);
+[2017-04-22 23:10:00] SQL 1 gucci0, 204, null);
+[2017-04-22 23:10:00] SQL 2 gucci0, 204, null);
+[2017-04-22 23:10:00] SQL 3 gucci0, 204, null);
+[2017-04-22 23:10:00] SQL 4 gucci0, 204, null);
+[2017-04-22 23:10:00] SQL 5 gucci0, 204, null);
+[2017-04-22 23:10:00] SQL 6 gucci0, 204, null);
+[2017-04-22 23:10:00] SQL 7 gucci
+[2017-04-22 23:20:00] Cronjob ran!0, 204, null);
+[2017-04-22 23:20:00] SQL 1 gucci0, 204, null);
+[2017-04-22 23:20:00] SQL 2 gucci0, 204, null);
+[2017-04-22 23:20:00] SQL 3 gucci0, 204, null);
+[2017-04-22 23:20:00] SQL 4 gucci0, 204, null);
+[2017-04-22 23:20:00] SQL 5 gucci0, 204, null);
+[2017-04-22 23:20:00] SQL 6 gucci0, 204, null);
+[2017-04-22 23:20:00] SQL 7 gucci
+[2017-04-22 23:30:00] Cronjob ran!0, 204, null);
+[2017-04-22 23:30:00] SQL 1 gucci0, 204, null);
+[2017-04-22 23:30:00] SQL 2 gucci0, 204, null);
+[2017-04-22 23:30:00] SQL 3 gucci0, 204, null);
+[2017-04-22 23:30:00] SQL 4 gucci0, 204, null);
+[2017-04-22 23:30:00] SQL 5 gucci0, 204, null);
+[2017-04-22 23:30:00] SQL 6 gucci0, 204, null);
+[2017-04-22 23:30:00] SQL 7 gucci
+[2017-04-22 23:40:00] Cronjob ran!0, 204, null);
+[2017-04-22 23:40:00] SQL 1 gucci0, 204, null);
+[2017-04-22 23:40:00] SQL 2 gucci0, 204, null);
+[2017-04-22 23:40:00] SQL 3 gucci0, 204, null);
+[2017-04-22 23:40:00] SQL 4 gucci0, 204, null);
+[2017-04-22 23:40:00] SQL 5 gucci0, 204, null);
+[2017-04-22 23:40:00] SQL 6 gucci0, 204, null);
+[2017-04-22 23:40:00] SQL 7 gucci
+[2017-04-22 23:50:00] Cronjob ran!0, 204, null);
+[2017-04-22 23:50:00] SQL 1 gucci0, 204, null);
+[2017-04-22 23:50:00] SQL 2 gucci0, 204, null);
+[2017-04-22 23:50:00] SQL 3 gucci0, 204, null);
+[2017-04-22 23:50:00] SQL 4 gucci0, 204, null);
+[2017-04-22 23:50:00] SQL 5 gucci0, 204, null);
+[2017-04-22 23:50:00] SQL 6 gucci0, 204, null);
+[2017-04-22 23:50:00] SQL 7 gucci
+[2017-04-23 00:00:00] Cronjob ran!0, 204, null);
+[2017-04-23 00:00:00] SQL 1 gucci0, 204, null);
+[2017-04-23 00:00:00] SQL 2 gucci0, 204, null);
+[2017-04-23 00:00:00] SQL 3 gucci0, 204, null);
+[2017-04-23 00:00:00] SQL 4 gucci0, 204, null);
+[2017-04-23 00:00:00] SQL 5 gucci0, 204, null);
+[2017-04-23 00:00:00] SQL 6 gucci0, 204, null);
+[2017-04-23 00:00:00] SQL 7 gucci
+[2017-04-23 00:10:00] Cronjob ran!0, 204, null);
+[2017-04-23 00:10:01] SQL 1 gucci0, 204, null);
+[2017-04-23 00:10:01] SQL 2 gucci0, 204, null);
+[2017-04-23 00:10:01] SQL 3 gucci0, 204, null);
+[2017-04-23 00:10:01] SQL 4 gucci0, 204, null);
+[2017-04-23 00:10:01] SQL 5 gucci0, 204, null);
+[2017-04-23 00:10:01] SQL 6 gucci0, 204, null);
+[2017-04-23 00:10:01] SQL 7 gucci
+[2017-04-23 00:20:01] Cronjob ran!0, 204, null);
+[2017-04-23 00:20:01] SQL 1 gucci0, 204, null);
+[2017-04-23 00:20:01] SQL 2 gucci0, 204, null);
+[2017-04-23 00:20:01] SQL 3 gucci0, 204, null);
+[2017-04-23 00:20:01] SQL 4 gucci0, 204, null);
+[2017-04-23 00:20:01] SQL 5 gucci0, 204, null);
+[2017-04-23 00:20:01] SQL 6 gucci0, 204, null);
+[2017-04-23 00:20:01] SQL 7 gucci
+[2017-04-23 00:30:00] Cronjob ran!0, 204, null);
+[2017-04-23 00:30:00] SQL 1 gucci0, 204, null);
+[2017-04-23 00:30:00] SQL 2 gucci0, 204, null);
+[2017-04-23 00:30:00] SQL 3 gucci0, 204, null);
+[2017-04-23 00:30:00] SQL 4 gucci0, 204, null);
+[2017-04-23 00:30:00] SQL 5 gucci0, 204, null);
+[2017-04-23 00:30:00] SQL 6 gucci0, 204, null);
+[2017-04-23 00:30:00] SQL 7 gucci
+[2017-04-23 00:40:01] Cronjob ran!0, 204, null);
+[2017-04-23 00:40:01] SQL 1 gucci0, 204, null);
+[2017-04-23 00:40:01] SQL 2 gucci0, 204, null);
+[2017-04-23 00:40:01] SQL 3 gucci0, 204, null);
+[2017-04-23 00:40:01] SQL 4 gucci0, 204, null);
+[2017-04-23 00:40:01] SQL 5 gucci0, 204, null);
+[2017-04-23 00:40:01] SQL 6 gucci0, 204, null);
+[2017-04-23 00:40:01] SQL 7 gucci
+[2017-04-23 00:50:01] Cronjob ran!0, 204, null);
+[2017-04-23 00:50:01] SQL 1 gucci0, 204, null);
+[2017-04-23 00:50:01] SQL 2 gucci0, 204, null);
+[2017-04-23 00:50:01] SQL 3 gucci0, 204, null);
+[2017-04-23 00:50:01] SQL 4 gucci0, 204, null);
+[2017-04-23 00:50:01] SQL 5 gucci0, 204, null);
+[2017-04-23 00:50:01] SQL 6 gucci0, 204, null);
+[2017-04-23 00:50:01] SQL 7 gucci
+[2017-04-23 01:00:00] Cronjob ran!0, 204, null);
+[2017-04-23 01:00:01] SQL 1 gucci0, 204, null);
+[2017-04-23 01:00:01] SQL 2 gucci0, 204, null);
+[2017-04-23 01:00:01] SQL 3 gucci0, 204, null);
+[2017-04-23 01:00:01] SQL 4 gucci0, 204, null);
+[2017-04-23 01:00:01] SQL 5 gucci0, 204, null);
+[2017-04-23 01:00:01] SQL 6 gucci0, 204, null);
+[2017-04-23 01:00:01] SQL 7 gucci
+[2017-04-23 01:10:01] Cronjob ran!0, 204, null);
+[2017-04-23 01:10:01] SQL 1 gucci0, 204, null);
+[2017-04-23 01:10:01] SQL 2 gucci0, 204, null);
+[2017-04-23 01:10:01] SQL 3 gucci0, 204, null);
+[2017-04-23 01:10:01] SQL 4 gucci0, 204, null);
+[2017-04-23 01:10:01] SQL 5 gucci0, 204, null);
+[2017-04-23 01:10:01] SQL 6 gucci0, 204, null);
+[2017-04-23 01:10:01] SQL 7 gucci
+[2017-04-23 01:20:00] Cronjob ran!0, 204, null);
+[2017-04-23 01:20:01] SQL 1 gucci0, 204, null);
+[2017-04-23 01:20:01] SQL 2 gucci0, 204, null);
+[2017-04-23 01:20:01] SQL 3 gucci0, 204, null);
+[2017-04-23 01:20:01] SQL 4 gucci0, 204, null);
+[2017-04-23 01:20:01] SQL 5 gucci0, 204, null);
+[2017-04-23 01:20:01] SQL 6 gucci0, 204, null);
+[2017-04-23 01:20:01] SQL 7 gucci
+[2017-04-23 01:25:44] Cronjob ran!0, 254, null);
+[2017-04-23 01:25:44] SQL 1 gucci0, 254, null);
+[2017-04-23 01:25:44] SQL 2 gucci0, 254, null);
+[2017-04-23 01:25:44] SQL 3 gucci0, 254, null);
+[2017-04-23 01:25:44] SQL 4 gucci0, 254, null);
+[2017-04-23 01:25:44] SQL 5 gucci0, 76, null);
+[2017-04-23 01:25:44] SQL 6 gucci0, 76, null);
+[2017-04-23 01:25:44] SQL 7 gucci
+[2017-04-23 01:30:00] Cronjob ran!0, 204, null);
+[2017-04-23 01:30:00] SQL 1 gucci0, 204, null);
+[2017-04-23 01:30:00] SQL 2 gucci0, 204, null);
+[2017-04-23 01:30:00] SQL 3 gucci0, 204, null);
+[2017-04-23 01:30:00] SQL 4 gucci0, 204, null);
+[2017-04-23 01:30:00] SQL 5 gucci0, 204, null);
+[2017-04-23 01:30:00] SQL 6 gucci0, 204, null);
+[2017-04-23 01:30:00] SQL 7 gucci
+[2017-04-23 01:40:00] Cronjob ran!0, 204, null);
+[2017-04-23 01:40:00] SQL 1 gucci0, 204, null);
+[2017-04-23 01:40:00] SQL 2 gucci0, 204, null);
+[2017-04-23 01:40:00] SQL 3 gucci0, 204, null);
+[2017-04-23 01:40:00] SQL 4 gucci0, 204, null);
+[2017-04-23 01:40:00] SQL 5 gucci0, 204, null);
+[2017-04-23 01:40:00] SQL 6 gucci0, 204, null);
+[2017-04-23 01:40:00] SQL 7 gucci
+[2017-04-23 01:50:00] Cronjob ran!0, 204, null);
+[2017-04-23 01:50:00] SQL 1 gucci0, 204, null);
+[2017-04-23 01:50:00] SQL 2 gucci0, 204, null);
+[2017-04-23 01:50:00] SQL 3 gucci0, 204, null);
+[2017-04-23 01:50:00] SQL 4 gucci0, 204, null);
+[2017-04-23 01:50:00] SQL 5 gucci0, 204, null);
+[2017-04-23 01:50:00] SQL 6 gucci0, 204, null);
+[2017-04-23 01:50:00] SQL 7 gucci
+[2017-04-23 03:00:01] Cronjob ran!0, 0, null);
+[2017-04-23 03:00:01] SQL 1 gucci0, 0, null);
+[2017-04-23 03:00:01] SQL 2 gucci0, 0, null);
+[2017-04-23 03:00:01] SQL 3 gucci0, 0, null);
+[2017-04-23 03:00:01] SQL 4 gucci0, 0, null);
+[2017-04-23 03:00:01] SQL 5 gucci0, 0, null);
+[2017-04-23 03:00:01] SQL 6 gucci0, 0, null);
+[2017-04-23 03:00:01] SQL 7 gucci
+[2017-04-23 03:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 03:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 03:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 03:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 03:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 03:10:00] SQL 5 gucci0, 0, null);
+[2017-04-23 03:10:00] SQL 6 gucci0, 0, null);
+[2017-04-23 03:10:00] SQL 7 gucci
+[2017-04-23 03:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 03:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 03:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 03:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 03:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 03:20:00] SQL 5 gucci0, 0, null);
+[2017-04-23 03:20:00] SQL 6 gucci0, 0, null);
+[2017-04-23 03:20:00] SQL 7 gucci
+[2017-04-23 04:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 04:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 04:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 04:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 04:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 04:30:00] SQL 5 gucci0, 0, null);
+[2017-04-23 04:30:00] SQL 6 gucci0, 0, null);
+[2017-04-23 04:30:00] SQL 7 gucci
+[2017-04-23 04:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 04:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 04:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 04:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 04:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 04:40:00] SQL 5 gucci0, 0, null);
+[2017-04-23 04:40:00] SQL 6 gucci0, 0, null);
+[2017-04-23 04:40:00] SQL 7 gucci
+[2017-04-23 04:50:02] Cronjob ran!0, 0, null);
+[2017-04-23 04:50:02] SQL 1 gucci0, 0, null);
+[2017-04-23 04:50:02] SQL 2 gucci0, 0, null);
+[2017-04-23 04:50:02] SQL 3 gucci0, 0, null);
+[2017-04-23 04:50:02] SQL 4 gucci0, 0, null);
+[2017-04-23 04:50:02] SQL 5 gucci0, 0, null);
+[2017-04-23 04:50:02] SQL 6 gucci0, 0, null);
+[2017-04-23 04:50:02] SQL 7 gucci
+[2017-04-23 06:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 06:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 06:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 06:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 06:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 06:00:00] SQL 5 gucci0, 0, null);
+[2017-04-23 06:00:00] SQL 6 gucci0, 0, null);
+[2017-04-23 06:00:00] SQL 7 gucci
+[2017-04-23 06:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 06:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 06:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 06:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 06:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 06:10:00] SQL 5 gucci0, 0, null);
+[2017-04-23 06:10:00] SQL 6 gucci0, 0, null);
+[2017-04-23 06:10:00] SQL 7 gucci
+[2017-04-23 06:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 06:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 06:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 06:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 06:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 06:20:00] SQL 5 gucci0, 0, null);
+[2017-04-23 06:20:00] SQL 6 gucci0, 0, null);
+[2017-04-23 06:20:01] SQL 7 gucci
+[2017-04-23 07:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 07:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 07:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 07:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 07:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 07:30:00] SQL 5 gucci0, 0, null);
+[2017-04-23 07:30:00] SQL 6 gucci0, 0, null);
+[2017-04-23 07:30:00] SQL 7 gucci
+[2017-04-23 07:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 07:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 07:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 07:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 07:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 07:40:00] SQL 5 gucci0, 0, null);
+[2017-04-23 07:40:00] SQL 6 gucci0, 0, null);
+[2017-04-23 07:40:00] SQL 7 gucci
+[2017-04-23 07:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 07:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 07:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 07:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 07:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 07:50:00] SQL 5 gucci0, 0, null);
+[2017-04-23 07:50:00] SQL 6 gucci0, 0, null);
+[2017-04-23 07:50:00] SQL 7 gucci
+[2017-04-23 09:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 09:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 09:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 09:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 09:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 09:00:00] SQL 5 gucci0, 0, null);
+[2017-04-23 09:00:00] SQL 6 gucci0, 0, null);
+[2017-04-23 09:00:00] SQL 7 gucci
+[2017-04-23 09:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 09:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 09:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 09:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 09:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 09:10:00] SQL 5 gucci0, 0, null);
+[2017-04-23 09:10:00] SQL 6 gucci0, 0, null);
+[2017-04-23 09:10:00] SQL 7 gucci
+[2017-04-23 09:20:01] Cronjob ran!0, 0, null);
+[2017-04-23 09:20:01] SQL 1 gucci0, 0, null);
+[2017-04-23 09:20:01] SQL 2 gucci0, 0, null);
+[2017-04-23 09:20:01] SQL 3 gucci0, 0, null);
+[2017-04-23 09:20:01] SQL 4 gucci0, 0, null);
+[2017-04-23 09:20:01] SQL 5 gucci0, 0, null);
+[2017-04-23 09:20:01] SQL 6 gucci0, 0, null);
+[2017-04-23 09:20:01] SQL 7 gucci
+[2017-04-23 10:30:00] Cronjob ran!0, 254, null);
+[2017-04-23 10:30:00] SQL 1 gucci0, 254, null);
+[2017-04-23 10:30:00] SQL 2 gucci0, 254, null);
+[2017-04-23 10:30:00] SQL 3 gucci0, 254, null);
+[2017-04-23 10:30:00] SQL 4 gucci0, 254, null);
+[2017-04-23 10:30:00] SQL 5 gucci0, 254, null);
+[2017-04-23 10:30:00] SQL 6 gucci0, 254, null);
+[2017-04-23 10:30:00] SQL 7 gucci
+[2017-04-23 10:40:00] Cronjob ran!0, 254, null);
+[2017-04-23 10:40:00] SQL 1 gucci0, 254, null);
+[2017-04-23 10:40:00] SQL 2 gucci0, 254, null);
+[2017-04-23 10:40:00] SQL 3 gucci0, 254, null);
+[2017-04-23 10:40:00] SQL 4 gucci0, 254, null);
+[2017-04-23 10:40:00] SQL 5 gucci0, 254, null);
+[2017-04-23 10:40:00] SQL 6 gucci0, 254, null);
+[2017-04-23 10:40:00] SQL 7 gucci
+[2017-04-23 10:50:01] Cronjob ran!0, 254, null);
+[2017-04-23 10:50:01] SQL 1 gucci0, 254, null);
+[2017-04-23 10:50:01] SQL 2 gucci0, 254, null);
+[2017-04-23 10:50:01] SQL 3 gucci0, 254, null);
+[2017-04-23 10:50:01] SQL 4 gucci0, 254, null);
+[2017-04-23 10:50:01] SQL 5 gucci0, 254, null);
+[2017-04-23 10:50:01] SQL 6 gucci0, 254, null);
+[2017-04-23 10:50:01] SQL 7 gucci
+[2017-04-23 11:00:00] Cronjob ran!0, 254, null);
+[2017-04-23 11:00:00] SQL 1 gucci0, 254, null);
+[2017-04-23 11:00:00] SQL 2 gucci0, 254, null);
+[2017-04-23 11:00:00] SQL 3 gucci0, 254, null);
+[2017-04-23 11:00:00] SQL 4 gucci0, 254, null);
+[2017-04-23 11:00:00] SQL 5 gucci0, 254, null);
+[2017-04-23 11:00:00] SQL 6 gucci0, 254, null);
+[2017-04-23 11:00:00] SQL 7 gucci
+[2017-04-23 11:10:01] Cronjob ran!0, 254, null);
+[2017-04-23 11:10:01] SQL 1 gucci0, 254, null);
+[2017-04-23 11:10:01] SQL 2 gucci0, 254, null);
+[2017-04-23 11:10:01] SQL 3 gucci0, 254, null);
+[2017-04-23 11:10:01] SQL 4 gucci0, 254, null);
+[2017-04-23 11:10:01] SQL 5 gucci0, 254, null);
+[2017-04-23 11:10:01] SQL 6 gucci0, 254, null);
+[2017-04-23 11:10:01] SQL 7 gucci
+[2017-04-23 11:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 11:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 11:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 11:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 11:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 11:20:00] SQL 5 gucci0, 0, null);
+[2017-04-23 11:20:00] SQL 6 gucci0, 0, null);
+[2017-04-23 11:20:00] SQL 7 gucci
+[2017-04-23 11:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 11:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 11:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 11:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 11:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 11:30:00] SQL 5 gucci0, 0, null);
+[2017-04-23 11:30:00] SQL 6 gucci0, 0, null);
+[2017-04-23 11:30:00] SQL 7 gucci
+[2017-04-23 11:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 11:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 11:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 11:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 11:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 11:40:00] SQL 5 gucci0, 0, null);
+[2017-04-23 11:40:00] SQL 6 gucci0, 0, null);
+[2017-04-23 11:40:00] SQL 7 gucci
+[2017-04-23 11:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 11:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 11:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 11:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 11:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 11:50:00] SQL 5 gucci0, 0, null);
+[2017-04-23 11:50:00] SQL 6 gucci0, 0, null);
+[2017-04-23 11:50:00] SQL 7 gucci
+[2017-04-23 12:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 12:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 12:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 12:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 12:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 12:00:00] SQL 5 gucci0, 0, null);
+[2017-04-23 12:00:00] SQL 6 gucci0, 0, null);
+[2017-04-23 12:00:00] SQL 7 gucci
+[2017-04-23 12:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 12:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 12:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 12:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 12:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 12:10:00] SQL 5 gucci0, 0, null);
+[2017-04-23 12:10:00] SQL 6 gucci0, 0, null);
+[2017-04-23 12:10:00] SQL 7 gucci
+[2017-04-23 12:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 12:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 12:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 12:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 12:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 12:20:00] SQL 5 gucci0, 0, null);
+[2017-04-23 12:20:00] SQL 6 gucci0, 0, null);
+[2017-04-23 12:20:00] SQL 7 gucci
+[2017-04-23 12:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 12:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 12:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 12:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 12:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 12:30:00] SQL 5 gucci0, 0, null);
+[2017-04-23 12:30:00] SQL 6 gucci0, 0, null);
+[2017-04-23 12:30:00] SQL 7 gucci
+[2017-04-23 12:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 12:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 12:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 12:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 12:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 12:40:00] SQL 5 gucci0, 0, null);
+[2017-04-23 12:40:00] SQL 6 gucci0, 0, null);
+[2017-04-23 12:40:00] SQL 7 gucci
+[2017-04-23 12:50:01] Cronjob ran!0, 0, null);
+[2017-04-23 12:50:01] SQL 1 gucci0, 0, null);
+[2017-04-23 12:50:01] SQL 2 gucci0, 0, null);
+[2017-04-23 12:50:01] SQL 3 gucci0, 0, null);
+[2017-04-23 12:50:01] SQL 4 gucci0, 0, null);
+[2017-04-23 12:50:01] SQL 5 gucci0, 254, null);
+[2017-04-23 12:50:01] SQL 6 gucci0, 254, null);
+[2017-04-23 12:50:01] SQL 7 gucci
+[2017-04-23 13:00:01] Cronjob ran!0, 0, null);
+[2017-04-23 13:00:01] SQL 1 gucci0, 0, null);
+[2017-04-23 13:00:01] SQL 2 gucci0, 0, null);
+[2017-04-23 13:00:01] SQL 3 gucci0, 0, null);
+[2017-04-23 13:00:01] SQL 4 gucci0, 0, null);
+[2017-04-23 13:00:01] SQL 5 gucci0, 254, null);
+[2017-04-23 13:00:01] SQL 6 gucci0, 254, null);
+[2017-04-23 13:00:01] SQL 7 gucci
+[2017-04-23 13:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 13:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 13:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 13:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 13:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 13:10:00] SQL 5 gucci0, 254, null);
+[2017-04-23 13:10:00] SQL 6 gucci0, 254, null);
+[2017-04-23 13:10:00] SQL 7 gucci
+[2017-04-23 13:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 13:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 13:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 13:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 13:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 13:20:00] SQL 5 gucci0, 254, null);
+[2017-04-23 13:20:00] SQL 6 gucci0, 254, null);
+[2017-04-23 13:20:00] SQL 7 gucci
+[2017-04-23 13:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 13:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 13:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 13:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 13:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 13:30:00] SQL 5 gucci0, 254, null);
+[2017-04-23 13:30:00] SQL 6 gucci0, 254, null);
+[2017-04-23 13:30:00] SQL 7 gucci
+[2017-04-23 13:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 13:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 13:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 13:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 13:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 13:40:00] SQL 5 gucci0, 254, null);
+[2017-04-23 13:40:00] SQL 6 gucci0, 254, null);
+[2017-04-23 13:40:00] SQL 7 gucci
+[2017-04-23 13:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 13:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 13:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 13:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 13:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 13:50:00] SQL 5 gucci0, 254, null);
+[2017-04-23 13:50:00] SQL 6 gucci0, 254, null);
+[2017-04-23 13:50:00] SQL 7 gucci
+[2017-04-23 14:00:01] Cronjob ran!0, 0, null);
+[2017-04-23 14:00:01] SQL 1 gucci0, 0, null);
+[2017-04-23 14:00:01] SQL 2 gucci0, 0, null);
+[2017-04-23 14:00:01] SQL 3 gucci0, 0, null);
+[2017-04-23 14:00:01] SQL 4 gucci0, 0, null);
+[2017-04-23 14:00:01] SQL 5 gucci0, 254, null);
+[2017-04-23 14:00:01] SQL 6 gucci0, 254, null);
+[2017-04-23 14:00:01] SQL 7 gucci
+[2017-04-23 14:10:01] Cronjob ran!0, 0, null);
+[2017-04-23 14:10:01] SQL 1 gucci0, 0, null);
+[2017-04-23 14:10:01] SQL 2 gucci0, 0, null);
+[2017-04-23 14:10:01] SQL 3 gucci0, 0, null);
+[2017-04-23 14:10:01] SQL 4 gucci0, 0, null);
+[2017-04-23 14:10:01] SQL 5 gucci0, 254, null);
+[2017-04-23 14:10:01] SQL 6 gucci0, 254, null);
+[2017-04-23 14:10:01] SQL 7 gucci
+[2017-04-23 14:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 14:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 14:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 14:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 14:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 14:20:00] SQL 5 gucci0, 254, null);
+[2017-04-23 14:20:00] SQL 6 gucci0, 254, null);
+[2017-04-23 14:20:00] SQL 7 gucci
+[2017-04-23 14:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 14:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 14:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 14:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 14:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 14:30:00] SQL 5 gucci0, 254, null);
+[2017-04-23 14:30:00] SQL 6 gucci0, 254, null);
+[2017-04-23 14:30:00] SQL 7 gucci
+[2017-04-23 14:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 14:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 14:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 14:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 14:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 14:40:00] SQL 5 gucci0, 254, null);
+[2017-04-23 14:40:00] SQL 6 gucci0, 254, null);
+[2017-04-23 14:40:00] SQL 7 gucci
+[2017-04-23 14:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 14:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 14:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 14:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 14:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 14:50:00] SQL 5 gucci0, 254, null);
+[2017-04-23 14:50:00] SQL 6 gucci0, 254, null);
+[2017-04-23 14:50:00] SQL 7 gucci
+[2017-04-23 15:00:01] Cronjob ran!0, 0, null);
+[2017-04-23 15:00:01] SQL 1 gucci0, 0, null);
+[2017-04-23 15:00:01] SQL 2 gucci0, 0, null);
+[2017-04-23 15:00:01] SQL 3 gucci0, 0, null);
+[2017-04-23 15:00:01] SQL 4 gucci0, 0, null);
+[2017-04-23 15:00:01] SQL 5 gucci0, 254, null);
+[2017-04-23 15:00:01] SQL 6 gucci0, 254, null);
+[2017-04-23 15:00:01] SQL 7 gucci
+[2017-04-23 15:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 15:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 15:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 15:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 15:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 15:10:00] SQL 5 gucci0, 254, null);
+[2017-04-23 15:10:00] SQL 6 gucci0, 254, null);
+[2017-04-23 15:10:00] SQL 7 gucci
+[2017-04-23 15:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 15:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 15:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 15:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 15:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 15:20:00] SQL 5 gucci0, 254, null);
+[2017-04-23 15:20:00] SQL 6 gucci0, 254, null);
+[2017-04-23 15:20:00] SQL 7 gucci
+[2017-04-23 15:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 15:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 15:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 15:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 15:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 15:30:00] SQL 5 gucci0, 254, null);
+[2017-04-23 15:30:00] SQL 6 gucci0, 254, null);
+[2017-04-23 15:30:00] SQL 7 gucci
+[2017-04-23 15:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 15:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 15:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 15:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 15:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 15:40:00] SQL 5 gucci0, 254, null);
+[2017-04-23 15:40:00] SQL 6 gucci0, 254, null);
+[2017-04-23 15:40:00] SQL 7 gucci
+[2017-04-23 15:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 15:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 15:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 15:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 15:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 15:50:00] SQL 5 gucci0, 254, null);
+[2017-04-23 15:50:00] SQL 6 gucci0, 254, null);
+[2017-04-23 15:50:00] SQL 7 gucci
+[2017-04-23 16:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 16:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 16:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 16:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 16:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 16:00:00] SQL 5 gucci0, 254, null);
+[2017-04-23 16:00:00] SQL 6 gucci0, 254, null);
+[2017-04-23 16:00:00] SQL 7 gucci
+[2017-04-23 16:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 16:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 16:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 16:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 16:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 16:10:00] SQL 5 gucci0, 254, null);
+[2017-04-23 16:10:00] SQL 6 gucci0, 254, null);
+[2017-04-23 16:10:00] SQL 7 gucci
+[2017-04-23 16:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 16:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 16:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 16:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 16:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 16:20:00] SQL 5 gucci0, 254, null);
+[2017-04-23 16:20:00] SQL 6 gucci0, 254, null);
+[2017-04-23 16:20:00] SQL 7 gucci
+[2017-04-23 16:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 16:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 16:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 16:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 16:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 16:30:00] SQL 5 gucci0, 254, null);
+[2017-04-23 16:30:00] SQL 6 gucci0, 254, null);
+[2017-04-23 16:30:00] SQL 7 gucci
+[2017-04-23 16:40:01] Cronjob ran!0, 0, null);
+[2017-04-23 16:40:01] SQL 1 gucci0, 0, null);
+[2017-04-23 16:40:01] SQL 2 gucci0, 0, null);
+[2017-04-23 16:40:01] SQL 3 gucci0, 0, null);
+[2017-04-23 16:40:01] SQL 4 gucci0, 0, null);
+[2017-04-23 16:40:01] SQL 5 gucci0, 254, null);
+[2017-04-23 16:40:01] SQL 6 gucci0, 254, null);
+[2017-04-23 16:40:01] SQL 7 gucci
+[2017-04-23 16:50:01] Cronjob ran!0, 0, null);
+[2017-04-23 16:50:01] SQL 1 gucci0, 0, null);
+[2017-04-23 16:50:01] SQL 2 gucci0, 0, null);
+[2017-04-23 16:50:01] SQL 3 gucci0, 0, null);
+[2017-04-23 16:50:01] SQL 4 gucci0, 0, null);
+[2017-04-23 16:50:01] SQL 5 gucci0, 254, null);
+[2017-04-23 16:50:01] SQL 6 gucci0, 254, null);
+[2017-04-23 16:50:01] SQL 7 gucci
+[2017-04-23 17:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 17:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 17:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 17:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 17:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 17:00:00] SQL 5 gucci0, 254, null);
+[2017-04-23 17:00:00] SQL 6 gucci0, 254, null);
+[2017-04-23 17:00:00] SQL 7 gucci
+[2017-04-23 17:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 17:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 17:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 17:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 17:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 17:10:00] SQL 5 gucci0, 254, null);
+[2017-04-23 17:10:00] SQL 6 gucci0, 254, null);
+[2017-04-23 17:10:00] SQL 7 gucci
+[2017-04-23 17:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 17:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 17:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 17:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 17:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 17:20:00] SQL 5 gucci0, 254, null);
+[2017-04-23 17:20:00] SQL 6 gucci0, 254, null);
+[2017-04-23 17:20:00] SQL 7 gucci
+[2017-04-23 17:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 17:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 17:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 17:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 17:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 17:30:00] SQL 5 gucci0, 254, null);
+[2017-04-23 17:30:00] SQL 6 gucci0, 254, null);
+[2017-04-23 17:30:00] SQL 7 gucci
+[2017-04-23 17:40:01] Cronjob ran!0, 0, null);
+[2017-04-23 17:40:01] SQL 1 gucci0, 0, null);
+[2017-04-23 17:40:01] SQL 2 gucci0, 0, null);
+[2017-04-23 17:40:01] SQL 3 gucci0, 0, null);
+[2017-04-23 17:40:01] SQL 4 gucci0, 0, null);
+[2017-04-23 17:40:01] SQL 5 gucci0, 254, null);
+[2017-04-23 17:40:01] SQL 6 gucci0, 254, null);
+[2017-04-23 17:40:01] SQL 7 gucci
+[2017-04-23 17:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 17:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 17:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 17:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 17:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 17:50:00] SQL 5 gucci0, 254, null);
+[2017-04-23 17:50:00] SQL 6 gucci0, 254, null);
+[2017-04-23 17:50:00] SQL 7 gucci
+[2017-04-23 18:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 18:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 18:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 18:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 18:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 18:00:00] SQL 5 gucci0, 254, null);
+[2017-04-23 18:00:00] SQL 6 gucci0, 254, null);
+[2017-04-23 18:00:00] SQL 7 gucci
+[2017-04-23 18:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 18:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 18:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 18:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 18:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 18:10:00] SQL 5 gucci0, 254, null);
+[2017-04-23 18:10:00] SQL 6 gucci0, 254, null);
+[2017-04-23 18:10:00] SQL 7 gucci
+[2017-04-23 18:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 18:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 18:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 18:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 18:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 18:20:00] SQL 5 gucci0, 254, null);
+[2017-04-23 18:20:00] SQL 6 gucci0, 254, null);
+[2017-04-23 18:20:00] SQL 7 gucci
+[2017-04-23 18:30:00] Cronjob ran!0, 254, null);
+[2017-04-23 18:30:00] SQL 1 gucci0, 254, null);
+[2017-04-23 18:30:00] SQL 2 gucci0, 254, null);
+[2017-04-23 18:30:00] SQL 3 gucci0, 254, null);
+[2017-04-23 18:30:00] SQL 4 gucci0, 254, null);
+[2017-04-23 18:30:00] SQL 5 gucci0, 76, null);
+[2017-04-23 18:30:00] SQL 6 gucci0, 76, null);
+[2017-04-23 18:30:00] SQL 7 gucci
+[2017-04-23 18:40:00] Cronjob ran!0, 254, null);
+[2017-04-23 18:40:00] SQL 1 gucci0, 254, null);
+[2017-04-23 18:40:00] SQL 2 gucci0, 254, null);
+[2017-04-23 18:40:00] SQL 3 gucci0, 254, null);
+[2017-04-23 18:40:00] SQL 4 gucci0, 254, null);
+[2017-04-23 18:40:00] SQL 5 gucci0, 0, null);
+[2017-04-23 18:40:00] SQL 6 gucci0, 102, null);
+[2017-04-23 18:40:00] SQL 7 gucci
+[2017-04-23 18:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 18:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 18:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 18:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 18:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 18:50:00] SQL 5 gucci0, 0, null);
+[2017-04-23 18:50:00] SQL 6 gucci0, 0, null);
+[2017-04-23 18:50:00] SQL 7 gucci
+[2017-04-23 19:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 19:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 19:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 19:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 19:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 19:00:00] SQL 5 gucci0, 0, null);
+[2017-04-23 19:00:00] SQL 6 gucci0, 0, null);
+[2017-04-23 19:00:00] SQL 7 gucci
+[2017-04-23 19:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 19:10:00] SQL 1 gucci0, 0, null);
+[2017-04-23 19:10:00] SQL 2 gucci0, 0, null);
+[2017-04-23 19:10:00] SQL 3 gucci0, 0, null);
+[2017-04-23 19:10:00] SQL 4 gucci0, 0, null);
+[2017-04-23 19:10:00] SQL 5 gucci0, 0, null);
+[2017-04-23 19:10:00] SQL 6 gucci0, 0, null);
+[2017-04-23 19:10:00] SQL 7 gucci
+[2017-04-23 19:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 19:20:01] SQL 1 gucci0, 0, null);
+[2017-04-23 19:20:01] SQL 2 gucci0, 0, null);
+[2017-04-23 19:20:01] SQL 3 gucci0, 0, null);
+[2017-04-23 19:20:01] SQL 4 gucci0, 0, null);
+[2017-04-23 19:20:01] SQL 5 gucci0, 0, null);
+[2017-04-23 19:20:01] SQL 6 gucci0, 0, null);
+[2017-04-23 19:20:01] SQL 7 gucci
+[2017-04-23 19:30:00] Cronjob ran!0, 0, null);
+[2017-04-23 19:30:00] SQL 1 gucci0, 0, null);
+[2017-04-23 19:30:00] SQL 2 gucci0, 0, null);
+[2017-04-23 19:30:00] SQL 3 gucci0, 0, null);
+[2017-04-23 19:30:00] SQL 4 gucci0, 0, null);
+[2017-04-23 19:30:00] SQL 5 gucci0, 0, null);
+[2017-04-23 19:30:00] SQL 6 gucci0, 0, null);
+[2017-04-23 19:30:00] SQL 7 gucci
+[2017-04-23 19:40:00] Cronjob ran!0, 0, null);
+[2017-04-23 19:40:00] SQL 1 gucci0, 0, null);
+[2017-04-23 19:40:00] SQL 2 gucci0, 0, null);
+[2017-04-23 19:40:00] SQL 3 gucci0, 0, null);
+[2017-04-23 19:40:00] SQL 4 gucci0, 0, null);
+[2017-04-23 19:40:00] SQL 5 gucci0, 0, null);
+[2017-04-23 19:40:00] SQL 6 gucci0, 0, null);
+[2017-04-23 19:40:00] SQL 7 gucci
+[2017-04-23 19:50:00] Cronjob ran!0, 0, null);
+[2017-04-23 19:50:00] SQL 1 gucci0, 0, null);
+[2017-04-23 19:50:00] SQL 2 gucci0, 0, null);
+[2017-04-23 19:50:00] SQL 3 gucci0, 0, null);
+[2017-04-23 19:50:00] SQL 4 gucci0, 0, null);
+[2017-04-23 19:50:00] SQL 5 gucci0, 0, null);
+[2017-04-23 19:50:00] SQL 6 gucci0, 0, null);
+[2017-04-23 19:50:00] SQL 7 gucci
+[2017-04-23 20:00:00] Cronjob ran!0, 0, null);
+[2017-04-23 20:00:00] SQL 1 gucci0, 0, null);
+[2017-04-23 20:00:00] SQL 2 gucci0, 0, null);
+[2017-04-23 20:00:00] SQL 3 gucci0, 0, null);
+[2017-04-23 20:00:00] SQL 4 gucci0, 0, null);
+[2017-04-23 20:00:00] SQL 5 gucci0, 0, null);
+[2017-04-23 20:00:00] SQL 6 gucci0, 0, null);
+[2017-04-23 20:00:00] SQL 7 gucci
+[2017-04-23 20:10:00] Cronjob ran!0, 0, null);
+[2017-04-23 20:10:01] SQL 1 gucci0, 0, null);
+[2017-04-23 20:10:01] SQL 2 gucci0, 0, null);
+[2017-04-23 20:10:01] SQL 3 gucci0, 0, null);
+[2017-04-23 20:10:01] SQL 4 gucci0, 0, null);
+[2017-04-23 20:10:01] SQL 5 gucci0, 0, null);
+[2017-04-23 20:10:01] SQL 6 gucci0, 0, null);
+[2017-04-23 20:10:01] SQL 7 gucci
+[2017-04-23 20:20:00] Cronjob ran!0, 0, null);
+[2017-04-23 20:20:00] SQL 1 gucci0, 0, null);
+[2017-04-23 20:20:00] SQL 2 gucci0, 0, null);
+[2017-04-23 20:20:00] SQL 3 gucci0, 0, null);
+[2017-04-23 20:20:00] SQL 4 gucci0, 0, null);
+[2017-04-23 20:20:00] SQL 5 gucci0, 0, null);
+[2017-04-23 20:20:00] SQL 6 gucci0, 0, null);
+[2017-04-23 20:20:00] SQL 7 gucci
